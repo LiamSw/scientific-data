@@ -1,0 +1,6 @@
+﻿year,low_cost_daily_flights,mainline_daily_flights,low_cost_minus_mainline,unit,source_report,data_status,classification_version,source_url
+2019,9578,11038,-1460,flights_per_day_calendar_year_average,PRR 2024,derived_from_published_difference,2022_rules,https://www.eurocontrol.int/publication/performance-review-report-prr-2024
+2022,8175,8174,1,flights_per_day_calendar_year_average,PRR 2022,published_rounded,2022_rules,https://www.eurocontrol.int/publication/performance-review-report-prr-2022
+2023,8972,9885,-913,flights_per_day_calendar_year_average,PRR 2023,published_rounded,2022_rules,https://www.eurocontrol.int/publication/performance-review-report-prr-2023
+2024,9865,10396,-531,flights_per_day_calendar_year_average,PRR 2024,published_rounded,2022_rules_pre_2025_revision,https://www.eurocontrol.int/publication/performance-review-report-prr-2024
+2025,10788,10570,218,flights_per_day_calendar_year_average,PRR 2025,published_rounded,2025_rules_retroactive_from_2024,https://www.eurocontrol.int/publication/performance-review-report-prr-2025

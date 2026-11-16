@@ -1,0 +1,51 @@
+{
+  "chart": {
+    "title": "Per capita CO₂ emissions from international passenger flights, tourism-adjusted",
+    "subtitle": "International aviation emissions are allocated to the country of departure, then adjusted for tourism.",
+    "citation": "OECD (2025), UNWTO (2024), Population based on various sources (2024)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/per-capita-co2-international-flights-adjusted?v=1&csvType=full&useColumnShortNames=false&utm_source=chatgpt.com",
+    "selection": [
+      "Germany",
+      "Canada",
+      "Israel",
+      "Moldova",
+      "Lithuania"
+    ]
+  },
+  "columns": {
+    "Per capita CO₂ emissions from international flights, international tourism-adjusted": {
+      "titleShort": "Per capita CO₂ emissions from international flights, international tourism-adjusted",
+      "titleLong": "Per capita CO₂ emissions from international flights, international tourism-adjusted",
+      "descriptionShort": "International aviation emissions are allocated to the country of departure, then adjusted for tourism.",
+      "descriptionKey": "This data isn’t seasonally adjusted—summer travel increases emissions, but the actual impact may be lower as Northern Hemisphere plants absorb more CO₂ during this time.",
+      "descriptionProcessing": "- CO₂ emission footprints do not necessarily reflect the amount of travel by locals in a given location. This is especially true if a country has high tourist volumes - much of the departures will result from travelers rather than local residents.\n\n- We have therefore also calculated 'adjusted' aviation footprints by multiplying international CO₂ emissions by an adjustment factor.\n\n- This adjustment factor is taken as the ratio between outbound and inbound tourist trips.\n\n- A high ratio of outbound-to-inbound tourist trips indicates that a country receives less visitors than its residents travel abroad. This results in a relatively lower burden of emissions from international flights being allocated to the country whose residents don't travel internationally as frequently.",
+      "shortUnit": "kg",
+      "unit": "kilograms",
+      "timespan": "2013-2024",
+      "type": "Numeric",
+      "owidVariableId": 1015453,
+      "shortName": "int_inb_out_per_capita",
+      "lastUpdated": "2025-03-11",
+      "nextUpdate": "2026-12-15",
+      "citationShort": "OECD (2025); UN Tourism (2025); Population based on various sources (2024) – with minor processing by Our World in Data",
+      "citationLong": "OECD (2025); UN Tourism (2025); Population based on various sources (2024) – with minor processing by Our World in Data. “Per capita CO₂ emissions from international flights, international tourism-adjusted” [dataset]. OECD, “Air transport CO2 emissions (experimental)”; UN Tourism, “UN Tourism Statistics Database”; Various sources, “Population” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1015453.metadata.json"
+    },
+    "World region according to OWID": {
+      "titleShort": "World region according to OWID",
+      "titleLong": "World region according to OWID",
+      "descriptionShort": "Regions defined by Our World in Data, which are used in OWID charts and maps.",
+      "unit": "",
+      "timespan": "2023-2023",
+      "type": "Continent",
+      "owidVariableId": 900801,
+      "shortName": "owid_region",
+      "lastUpdated": "2023-01-01",
+      "citationShort": "Our World in Data",
+      "citationLong": "Our World in Data. “World region according to OWID” [dataset]. Our World in Data, “Regions” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/900801.metadata.json"
+    }
+  },
+  "dateDownloaded": "2026-11-15",
+  "activeFilters": {}
+}

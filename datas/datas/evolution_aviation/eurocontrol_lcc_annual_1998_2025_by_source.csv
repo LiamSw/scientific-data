@@ -1,0 +1,28 @@
+year,lcc_share_pct,source_group,lcc_flights,total_ifr_flights,source_url,calculation_note
+1998,1.6,snapshot_1998_2018,,,https://www.eurocontrol.int/publication/eurocontrol-data-snapshot-34-rise-low-cost-carriers-europe,Published annual share; historic classification
+1999,1.7,snapshot_1998_2018,,,https://www.eurocontrol.int/publication/eurocontrol-data-snapshot-34-rise-low-cost-carriers-europe,Published annual share; historic classification
+2000,1.8,snapshot_1998_2018,,,https://www.eurocontrol.int/publication/eurocontrol-data-snapshot-34-rise-low-cost-carriers-europe,Published annual share; historic classification
+2001,2.1,snapshot_1998_2018,,,https://www.eurocontrol.int/publication/eurocontrol-data-snapshot-34-rise-low-cost-carriers-europe,Published annual share; historic classification
+2002,3.7,snapshot_1998_2018,,,https://www.eurocontrol.int/publication/eurocontrol-data-snapshot-34-rise-low-cost-carriers-europe,Published annual share; historic classification
+2003,7.0,snapshot_1998_2018,,,https://www.eurocontrol.int/publication/eurocontrol-data-snapshot-34-rise-low-cost-carriers-europe,Published annual share; historic classification
+2004,10.5625,snapshot_1998_2018,,,https://www.eurocontrol.int/publication/eurocontrol-data-snapshot-34-rise-low-cost-carriers-europe,Published annual share; historic classification
+2005,13.3495,snapshot_1998_2018,,,https://www.eurocontrol.int/publication/eurocontrol-data-snapshot-34-rise-low-cost-carriers-europe,Published annual share; historic classification
+2006,16.0836,snapshot_1998_2018,,,https://www.eurocontrol.int/publication/eurocontrol-data-snapshot-34-rise-low-cost-carriers-europe,Published annual share; historic classification
+2007,18.7678,snapshot_1998_2018,,,https://www.eurocontrol.int/publication/eurocontrol-data-snapshot-34-rise-low-cost-carriers-europe,Published annual share; historic classification
+2008,20.2437,snapshot_1998_2018,,,https://www.eurocontrol.int/publication/eurocontrol-data-snapshot-34-rise-low-cost-carriers-europe,Published annual share; historic classification
+2009,21.2521,snapshot_1998_2018,,,https://www.eurocontrol.int/publication/eurocontrol-data-snapshot-34-rise-low-cost-carriers-europe,Published annual share; historic classification
+2010,22.5798,snapshot_1998_2018,,,https://www.eurocontrol.int/publication/eurocontrol-data-snapshot-34-rise-low-cost-carriers-europe,Published annual share; historic classification
+2011,23.8997,snapshot_1998_2018,,,https://www.eurocontrol.int/publication/eurocontrol-data-snapshot-34-rise-low-cost-carriers-europe,Published annual share; historic classification
+2012,24.8484,snapshot_1998_2018,,,https://www.eurocontrol.int/publication/eurocontrol-data-snapshot-34-rise-low-cost-carriers-europe,Published annual share; historic classification
+2013,25.7248,snapshot_1998_2018,,,https://www.eurocontrol.int/publication/eurocontrol-data-snapshot-34-rise-low-cost-carriers-europe,Published annual share; historic classification
+2014,27.541,snapshot_1998_2018,,,https://www.eurocontrol.int/publication/eurocontrol-data-snapshot-34-rise-low-cost-carriers-europe,Published annual share; historic classification
+2015,28.7125,snapshot_1998_2018,,,https://www.eurocontrol.int/publication/eurocontrol-data-snapshot-34-rise-low-cost-carriers-europe,Published annual share; historic classification
+2016,30.1169,snapshot_1998_2018,,,https://www.eurocontrol.int/publication/eurocontrol-data-snapshot-34-rise-low-cost-carriers-europe,Published annual share; historic classification
+2017,30.5529,snapshot_1998_2018,,,https://www.eurocontrol.int/publication/eurocontrol-data-snapshot-34-rise-low-cost-carriers-europe,Published annual share; historic classification
+2018,30.2692,snapshot_1998_2018,,,https://www.eurocontrol.int/publication/eurocontrol-data-snapshot-34-rise-low-cost-carriers-europe,Published annual share; historic classification
+2019,31.5184,standard_inputs_2019_2022,3493913,11085302,https://permanent-release-v9-0-3--standard-inputs.netlify.app/chapters/number_of_ifr_flights.html,Annual flights ratio; updated market segment classification
+2020,24.9729,standard_inputs_2019_2022,1243422,4979078,https://permanent-release-v9-0-3--standard-inputs.netlify.app/chapters/number_of_ifr_flights.html,Annual flights ratio; updated market segment classification
+2021,25.8434,standard_inputs_2019_2022,1610239,6230752,https://permanent-release-v9-0-3--standard-inputs.netlify.app/chapters/number_of_ifr_flights.html,Annual flights ratio; updated market segment classification
+2022,32.3065,standard_inputs_2019_2022,2984376,9237693,https://permanent-release-v10-0-0--standard-inputs.netlify.app/chapters/number_of_ifr_flights.html,Annual flights ratio; updated market segment classification
+2024,33.8,prr_2024_2025,,,https://www.eurocontrol.int/sites/default/files/2025-03/eurocontrol-performance-review-report-2024.pdf,PRR published rounded share; annual average daily flights
+2025,35.4,prr_2024_2025,,,https://www.eurocontrol.int/sites/default/files/2026-03/eurocontrol-performance-review-report-2025.pdf,PRR published rounded share; annual average daily flights

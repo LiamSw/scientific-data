@@ -1,0 +1,280 @@
+﻿figure,region,indicator,impact,confidence_in_attribution,ipcc_report_reference
+SPM2a,Global,Changes in ecosystem structure: Terrestrial,,High,2.4.3.1- 2.4.3.9; Box 2.1; Figure Box 2.1.1; Table 2.5
+SPM2a,Global,Changes in ecosystem structure: Freshwater,,High to very high,2.4.2.2; 2.4.2.3; 2.4.2.7
+SPM2a,Global,Changes in ecosystem structure: Ocean,,High,3.4.2.1-3.4.2.3; 3.4.2.5; 3.4.3.3; Box 3.2
+SPM2a,Global,Species range shifts: Terrestrial,,Very high,2.4.2; Table 2.2; Table SM2.1
+SPM2a,Global,Species range shifts: Freshwater,,Very high,2.4.2.3; 2.4.2.7
+SPM2a,Global,Species range shifts: Ocean,,High to very high,3.4.2.3-3.4.2.5; 3.4.2.8; 3.4.2.10; 3.4.3.4; Box 3.2
+SPM2a,Global,Changes in timing (phenology): Terrestrial,,Very high,2.4.2; Table 2.2; Table 2.S.1
+SPM2a,Global,Changes in timing (phenology): Freshwater,,Very high,2.4.2.2; 2.4.2.3; 2.4.2.7
+SPM2a,Global,Changes in timing (phenology): Ocean,,High,3.4.2.6; 3.4.2.8; 3.4.3.2; Box 3.2; Table 3.19
+SPM2a,Africa,Changes in ecosystem structure: Terrestrial,,High,Figure 9.17
+SPM2a,Africa,Changes in ecosystem structure: Freshwater,,High,9.6.1
+SPM2a,Africa,Changes in ecosystem structure: Ocean,,High,9.6.1
+SPM2a,Africa,Species range shifts: Terrestrial,,High,9.6.1
+SPM2a,Africa,Species range shifts: Freshwater,,Evidence limited; insufficient,
+SPM2a,Africa,Species range shifts: Ocean,,High,9.6.1
+SPM2a,Africa,Changes in timing (phenology): Terrestrial,,Evidence limited; insufficient,
+SPM2a,Africa,Changes in timing (phenology): Freshwater,,Low,9.6.1
+SPM2a,Africa,Changes in timing (phenology): Ocean,,Low,9.6.1
+SPM2a,Asia,Changes in ecosystem structure: Terrestrial,,High,2.4.3.2.1; Box 2.1 & Table box 2.1 & Table 2.S.5
+SPM2a,Asia,Changes in ecosystem structure: Freshwater,,Medium (medium to high),2.4.2.3.1; 10.4.2
+SPM2a,Asia,Changes in ecosystem structure: Ocean,,High,10.4.3
+SPM2a,Asia,Species range shifts: Terrestrial,,Low,10.4.2.1
+SPM2a,Asia,Species range shifts: Freshwater,,Medium,2.4.2.1 ; 2.4.2.7.2; 10.4.2.1.2
+SPM2a,Asia,Species range shifts: Ocean,,Evidence limited; insufficient,
+SPM2a,Asia,Changes in timing (phenology): Terrestrial,,Low,10.4.2.1
+SPM2a,Asia,Changes in timing (phenology): Freshwater,,Low,2.4.2.1 & Table 2.2
+SPM2a,Asia,Changes in timing (phenology): Ocean,,Medium,10.4.3
+SPM2a,Australasia,Changes in ecosystem structure: Terrestrial,,High,11.3.1.1; Table 11.2
+SPM2a,Australasia,Changes in ecosystem structure: Freshwater,,Evidence limited; insufficient,
+SPM2a,Australasia,Changes in ecosystem structure: Ocean,,High,Table 11.6
+SPM2a,Australasia,Species range shifts: Terrestrial,,High,11.3.1.1; Table 11.2
+SPM2a,Australasia,Species range shifts: Freshwater,,Evidence limited; insufficient,
+SPM2a,Australasia,Species range shifts: Ocean,,High,Table 11.6
+SPM2a,Australasia,Changes in timing (phenology): Terrestrial,,High,11.3.1.1; Table 11.2
+SPM2a,Australasia,Changes in timing (phenology): Freshwater,,Evidence limited; insufficient,
+SPM2a,Australasia,Changes in timing (phenology): Ocean,,Low,11.3.4.4
+SPM2a,Central and South America,Changes in ecosystem structure: Terrestrial,,High,12.3.3.4; 12.3.4.2; 12.3.4.4; 12.3.7.2
+SPM2a,Central and South America,Changes in ecosystem structure: Freshwater,,High,12.3.2.4; 12.3.4.4; 12.3.5.2; 12.4
+SPM2a,Central and South America,Changes in ecosystem structure: Ocean,,High,Table SM12.3 12.3; 12.5.2; Figure 12.8; Figure 12.9
+SPM2a,Central and South America,Species range shifts: Terrestrial,,Very high,12.3.1.4; 12.3.2.3; 12.3.2.4; 12.3.4.2; 12.3.6.2; 12.3.7.2; 12.3.8.4
+SPM2a,Central and South America,Species range shifts: Freshwater,,High,2.4.2.7.1 Case Study 2: chytrid
+SPM2a,Central and South America,Species range shifts: Ocean,,High,Table SM12.3
+SPM2a,Central and South America,Changes in timing (phenology): Terrestrial,,Evidence limited; insufficient,
+SPM2a,Central and South America,Changes in timing (phenology): Freshwater,,Evidence limited; insufficient,
+SPM2a,Central and South America,Changes in timing (phenology): Ocean,,Low,Table SM12.3
+SPM2a,Europe,Changes in ecosystem structure: Terrestrial,,High,13.3.1; 13.4.1; Figure 13.9
+SPM2a,Europe,Changes in ecosystem structure: Freshwater,,High,13.3; Figure 13.9
+SPM2a,Europe,Changes in ecosystem structure: Ocean,,High,13.4.1; Figure 13.12
+SPM2a,Europe,Species range shifts: Terrestrial,,High,13.3; Figure 13.9
+SPM2a,Europe,Species range shifts: Freshwater,,High,13.3; Figure 13.9
+SPM2a,Europe,Species range shifts: Ocean,,High,Figure 13.12
+SPM2a,Europe,Changes in timing (phenology): Terrestrial,,High,13.3; Figure 13.9
+SPM2a,Europe,Changes in timing (phenology): Freshwater,,High,13.3; Figure 13.9
+SPM2a,Europe,Changes in timing (phenology): Ocean,,High,Table 13.12
+SPM2a,North America,Changes in ecosystem structure: Terrestrial,,Very high,14.5.1
+SPM2a,North America,Changes in ecosystem structure: Freshwater,,Very high,14.5.1
+SPM2a,North America,Changes in ecosystem structure: Ocean,,High,14.5.2
+SPM2a,North America,Species range shifts: Terrestrial,,Very high,14.5.1
+SPM2a,North America,Species range shifts: Freshwater,,Very high,14.5.1
+SPM2a,North America,Species range shifts: Ocean,,High,14.5.2
+SPM2a,North America,Changes in timing (phenology): Terrestrial,,Very high,14.5.1
+SPM2a,North America,Changes in timing (phenology): Freshwater,,High,2.4.2.4
+SPM2a,North America,Changes in timing (phenology): Ocean,,High,14.5.2
+SPM2a,Small Islands,Changes in ecosystem structure: Terrestrial,,High,15.3.3.3; CCP1.2.2
+SPM2a,Small Islands,Changes in ecosystem structure: Freshwater,,High,15.3.3.2
+SPM2a,Small Islands,Changes in ecosystem structure: Ocean,,High,15.3.3.1; 15.3.4.4; 3.4.2.1
+SPM2a,Small Islands,Species range shifts: Terrestrial,,High,15.3.3.3; CCP1.2.2
+SPM2a,Small Islands,Species range shifts: Freshwater,,High,2.4.2.2
+SPM2a,Small Islands,Species range shifts: Ocean,,High,15.3.4.4; 15.3.4.8; 15.4; 3.4.2; 3.4.3
+SPM2a,Small Islands,Changes in timing (phenology): Terrestrial,,High,15.3.3.3; CCP1.2.2
+SPM2a,Small Islands,Changes in timing (phenology): Freshwater,,Evidence limited; insufficient,
+SPM2a,Small Islands,Changes in timing (phenology): Ocean,,Medium,3.2.2.3; 3.4.2; 3.4.3
+SPM2a,Arctic,Changes in ecosystem structure: Terrestrial,,High,2.4.3.5; 2.4.3.9; Box 2.1 & Table box 2.1 & Table 2.S.5; Table CCP6.2
+SPM2a,Arctic,Changes in ecosystem structure: Freshwater,,Medium,2.4.4.1
+SPM2a,Arctic,Changes in ecosystem structure: Ocean,,High,CCP6.2.1.1; CCP6.2.1.4; Table CCP6.2
+SPM2a,Arctic,Species range shifts: Terrestrial,,High,CCP6.2.2; Table CCP6.2
+SPM2a,Arctic,Species range shifts: Freshwater,,High,2.4.2.7.2
+SPM2a,Arctic,Species range shifts: Ocean,,High,CCP6.2.1.1; CCP6.2.1.2; Table CCP6.2
+SPM2a,Arctic,Changes in timing (phenology): Terrestrial,,High,2.4.2.1; Table 2.2; 2.4.2.7; 2.4.3.9
+SPM2a,Arctic,Changes in timing (phenology): Freshwater,,Medium,CCP6.2; Table CCP.6.2
+SPM2a,Arctic,Changes in timing (phenology): Ocean,,High,CCP6.2.1.1; CCP6.2.1.2; Table CCP6.2
+SPM2a,Antarctic,Changes in ecosystem structure: Terrestrial,,Medium,CCP6.2.2; Table CCP6.2
+SPM2a,Antarctic,Changes in ecosystem structure: Freshwater,,Evidence limited; insufficient,
+SPM2a,Antarctic,Changes in ecosystem structure: Ocean,,Medium,CCP6.2.2; Table CCP6.2
+SPM2a,Antarctic,Species range shifts: Terrestrial,,Medium,CCP6.2.2; Table CCP6.2
+SPM2a,Antarctic,Species range shifts: Freshwater,,Evidence limited; insufficient,
+SPM2a,Antarctic,Species range shifts: Ocean,,Medium (low to medium for krill and invasives; high for birds),CCP6.2.2.1; Table CCP6.2
+SPM2a,Antarctic,Changes in timing (phenology): Terrestrial,,Medium,Table 2.2a
+SPM2a,Antarctic,Changes in timing (phenology): Freshwater,,Evidence limited; insufficient,
+SPM2a,Antarctic,Changes in timing (phenology): Ocean,,Evidence limited; insufficient,
+SPM2a,Mediterranean Region,Changes in ecosystem structure: Terrestrial,,High,Table SMCCP4.1
+SPM2a,Mediterranean Region,Changes in ecosystem structure: Freshwater,,Evidence limited; insufficient,
+SPM2a,Mediterranean Region,Changes in ecosystem structure: Ocean,,High,Table SMCCP4.1
+SPM2a,Mediterranean Region,Species range shifts: Terrestrial,,High,Table SMCCP4.1
+SPM2a,Mediterranean Region,Species range shifts: Freshwater,,Medium,Ch13; section 13.3.1.1
+SPM2a,Mediterranean Region,Species range shifts: Ocean,,High,13.4.1.1; Table SMCCP4.1
+SPM2a,Mediterranean Region,Changes in timing (phenology): Terrestrial,,High,13.3.1.1
+SPM2a,Mediterranean Region,Changes in timing (phenology): Freshwater,,Evidence limited; insufficient,
+SPM2a,Mediterranean Region,Changes in timing (phenology): Ocean,,Medium,
+SPM2a,Tropical Forests,Changes in ecosystem structure: Terrestrial,,High,CCP7.3; CCP 7.5.1
+SPM2a,Tropical Forests,Changes in ecosystem structure: Freshwater,,Evidence limited; insufficient,
+SPM2a,Tropical Forests,Changes in ecosystem structure: Ocean,,Not applicable,
+SPM2a,Tropical Forests,Species range shifts: Terrestrial,,Medium,CCP7.3.4; Table CCP7.3
+SPM2a,Tropical Forests,Species range shifts: Freshwater,,Evidence limited; insufficient,
+SPM2a,Tropical Forests,Species range shifts: Ocean,,Not applicable,
+SPM2a,Tropical Forests,Changes in timing (phenology): Terrestrial,,Evidence limited; insufficient,
+SPM2a,Tropical Forests,Changes in timing (phenology): Freshwater,,Evidence limited; insufficient,
+SPM2a,Tropical Forests,Changes in timing (phenology): Ocean,,Not applicable,
+SPM2a,Mountain Regions,Changes in ecosystem structure: Terrestrial,,High,CCP5.2.1; Figure CCP5.4; SMCCP5.2.2; Table SMCCP5.7; SROCC 2.3.3.1
+SPM2a,Mountain Regions,Changes in ecosystem structure: Freshwater,,Medium,2.4.2.1; SROCC 2.3.3.2
+SPM2a,Mountain Regions,Changes in ecosystem structure: Ocean,,Not applicable,
+SPM2a,Mountain Regions,Species range shifts: Terrestrial,,High,CCP5.2.1; Figure CCP5.4; SMCCP5.2.2; Table SMCCP5.7; SROCC 2.3.3.1
+SPM2a,Mountain Regions,Species range shifts: Freshwater,,Medium,2.4.2.1; SROCC 2.3.3.2
+SPM2a,Mountain Regions,Species range shifts: Ocean,,Not applicable,
+SPM2a,Mountain Regions,Changes in timing (phenology): Terrestrial,,High,CCP5.2.3. CCP5.3.1. CCP5.3.2.3
+SPM2a,Mountain Regions,Changes in timing (phenology): Freshwater,,Low,CCP5.2.1; CCP5.2.7
+SPM2a,Mountain Regions,Changes in timing (phenology): Ocean,,Not applicable,
+SPM2a,Deserts,Changes in ecosystem structure: Terrestrial,,High,Table SM2.1
+SPM2a,Deserts,Changes in ecosystem structure: Freshwater,,Not applicable,
+SPM2a,Deserts,Changes in ecosystem structure: Ocean,,Not applicable,
+SPM2a,Deserts,Species range shifts: Terrestrial,,High,2.4.2.5
+SPM2a,Deserts,Species range shifts: Freshwater,,Not applicable,
+SPM2a,Deserts,Species range shifts: Ocean,,Not applicable,
+SPM2a,Deserts,Changes in timing (phenology): Terrestrial,,Evidence limited; insufficient,
+SPM2a,Deserts,Changes in timing (phenology): Freshwater,,Not applicable,
+SPM2a,Deserts,Changes in timing (phenology): Ocean,,Not applicable,
+SPM2a,Biodiversity Hotspots,Changes in ecosystem structure: Terrestrial,,High,CCP1.2.2.1
+SPM2a,Biodiversity Hotspots,Changes in ecosystem structure: Freshwater,,Evidence limited; insufficient,
+SPM2a,Biodiversity Hotspots,Changes in ecosystem structure: Ocean,,High,CCP1.2.4.1
+SPM2a,Biodiversity Hotspots,Species range shifts: Terrestrial,,High,CCP1.2.2.1
+SPM2a,Biodiversity Hotspots,Species range shifts: Freshwater,,Evidence limited; insufficient,2.4.2.2
+SPM2a,Biodiversity Hotspots,Species range shifts: Ocean,,High,CCP1.2.4.1
+SPM2a,Biodiversity Hotspots,Changes in timing (phenology): Terrestrial,,High,CCP1.2.2.1
+SPM2a,Biodiversity Hotspots,Changes in timing (phenology): Freshwater,,Evidence limited; insufficient,CCP1.2.3.1
+SPM2a,Biodiversity Hotspots,Changes in timing (phenology): Ocean,,Not assessed,CCP1.2.4.1
+SPM2b,Global,Water scarcity,Increasing adverse and positive impacts,Medium,4.2.5-4.2.7; 4.3.1-4.3.3; Box 4.1.; Table SM4.3; Figure TS FOOD-WATER
+SPM2b,Global,Agriculture/ crop production,Increase in adverse impacts,Medium,5.2.1; 5.4.1
+SPM2b,Global,Animal and livestock health and productivity,Evidence limited; insufficient,,
+SPM2b,Global,Fisheries yields and aquaculture production,Increase in adverse impacts,Medium,5.8.1 SROCC SPM A.5.4
+SPM2b,Global,Infectious diseases,Increase in adverse impacts,Medium,2.4.2.7; CCB ILLNESS in Chapter 2; 4.3.3; 7.2.2; Box 7.3; Table 7.1
+SPM2b,Global,Heat; malnutrition and other,Increase in adverse impacts,High,7.2.3-7.2.5; Table 7.1; 8.2.1; 8.3.2; 8.3.4; Box 8.6
+SPM2b,Global,Mental health,Increase in adverse impacts,High,3.5.6; Figure 3.23; 4.3.3; 4.3.8; Table Box 7.2.1; 7.2.5; 7.2.5.2
+SPM2b,Global,Displacement,Increase in adverse impacts,High,6.2.3.3; 7.2.6; 8.2.1.3; CCB MIGRATE in Chapter 7
+SPM2b,Global,Inland flooding and associated damages,Increase in adverse impacts,High,4.2.4; Table SM4.3; CCP2.2; SMCCP2.1
+SPM2b,Global,Flood/storm induced damages in coastal areas,Increase in adverse impacts,High,6.2; CCP2.2; SMCCP2.1
+SPM2b,Global,Damages to infrastructure,Increase in adverse impacts,High,6.2.5; 6.2.6; Box 6.2
+SPM2b,Global,Damages to key economic sectors,Increase in adverse impacts,Medium,6.2; CCP2.2; SMCCP2.1
+SPM2b,Africa,Water scarcity,Increase in adverse impacts,Medium,Table SM4.3; 9.5.2; 9.5.6; 9.7.1; Box 9.4
+SPM2b,Africa,Agriculture/ crop production,Increase in adverse impacts,High,9.2; 9.8.1; 9.8.2
+SPM2b,Africa,Animal and livestock health and productivity,Increase in adverse impacts,Low,9.8.1; 9.8.2
+SPM2b,Africa,Fisheries yields and aquaculture production,Increase in adverse impacts,Medium,9.1.2; 9.2; 9.6.1.3; 9.8.5.1
+SPM2b,Africa,Infectious diseases,Increase in adverse impacts,High,2.4.2.7; CCB ILLNESS in Chapter 2; 9.10.2; Figure 9.32
+SPM2b,Africa,Heat; malnutrition and other,Increase in adverse impacts,High,2.4.2.7; CCB ILLNESS in Chapter 2; 9.10.2; Figure 9.32
+SPM2b,Africa,Mental health,Increase in adverse impacts,,9.10.2.6.1
+SPM2b,Africa,Displacement,Increase in adverse impacts,High,9.9.2; Box 9.8; Table Box 9.8.1
+SPM2b,Africa,Inland flooding and associated damages,Increase in adverse impacts,Medium,9.7.1; 9.9.1.1; 9.9.2
+SPM2b,Africa,Flood/storm induced damages in coastal areas,Increase in adverse impacts,Medium,9.9.2; Figure 9.27
+SPM2b,Africa,Damages to infrastructure,Increase in adverse impacts,Medium,9.9.2; Box 9.5; Table 9.7
+SPM2b,Africa,Damages to key economic sectors,Increase in adverse impacts,High,9.11.1; Figure 9.37
+SPM2b,Asia,Water scarcity,Increasing adverse and positive impacts,Medium,10.4.4; Table SM4.3
+SPM2b,Asia,Agriculture/ crop production,Increasing adverse and positive impacts,High,10.4.5; 5.4.1
+SPM2b,Asia,Animal and livestock health and productivity,Increase in adverse impacts,Low,10.4.5.2.3
+SPM2b,Asia,Fisheries yields and aquaculture production,Increase in adverse impacts,Medium,10.4.3.2; 10.4.5.2
+SPM2b,Asia,Infectious diseases,Increase in adverse impacts,Medium,2.4.2.7; CCB ILLNESS in Chapter 2; 10.4.4.3; 10.4.7
+SPM2b,Asia,Heat; malnutrition and other,Increase in adverse impacts,High,10.4.7
+SPM2b,Asia,Mental health,Increase in adverse impacts,High,10.4.6.3.2; 10.4.7.1
+SPM2b,Asia,Displacement,Increase in adverse impacts,High,Box 10.2
+SPM2b,Asia,Inland flooding and associated damages,Increase in adverse impacts,Low,10.4.4.3; Figure 10.2
+SPM2b,Asia,Flood/storm induced damages in coastal areas,Increase in adverse impacts,High,Figure 10.2
+SPM2b,Asia,Damages to infrastructure,Increase in adverse impacts,Medium,10.4.6.3
+SPM2b,Asia,Damages to key economic sectors,Increase in adverse impacts,Medium,Box 10.7
+SPM2b,Australasia,Water scarcity,Increasing adverse and positive impacts,Low,11.3.3.1; 11.3.11; Table SM16.B.2
+SPM2b,Australasia,Agriculture/ crop production,Increase in adverse impacts,High,11.3.4.1; Table SM16.B.2; 5.4.1
+SPM2b,Australasia,Animal and livestock health and productivity,Increasing adverse and positive impacts,Medium,11.3.4.2
+SPM2b,Australasia,Fisheries yields and aquaculture production,Increase in adverse impacts,Medium,11.3.4.4
+SPM2b,Australasia,Infectious diseases,Increase in adverse impacts,Low,11.3.6.1; Table SM16.B.2
+SPM2b,Australasia,Heat; malnutrition and other,Increase in adverse impacts,Medium,Table 7.4 7.2.5; 11.3.5.1; 11.3.6.1; 11.3.11; 11.4; Table 11.10; Table SM16.2
+SPM2b,Australasia,Mental health,Increase in adverse impacts,Medium,11.3.6.2; Table 11.10
+SPM2b,Australasia,Displacement,Not assessed,,
+SPM2b,Australasia,Inland flooding and associated damages,Increase in adverse impacts,Low,Box 11.4; Box 11.6; Table SM16.B.2
+SPM2b,Australasia,Flood/storm induced damages in coastal areas,Increase in adverse impacts,High,11.3.5.1; Table Box 11.6.1
+SPM2b,Australasia,Damages to infrastructure,Increase in adverse impacts,High,11.3.5.1; 11.5.1; Table SM16.B.2
+SPM2b,Australasia,Damages to key economic sectors,Increase in adverse impacts,High,11.3.5.2; 11.5.1; 11.5.2.1; Box 11.6
+SPM2b,Central and South America,Water scarcity,Increasing adverse and positive impacts,Low,Table SM4.3; 12.3.1.4; 12.3.2.4; 12.3.3.4; 12.3.5.4; 12.3.6.4; 12.3.7.4; 12.3.8.4; 12.5.3.1; Figure 12.9; Figure 12.10; Table 12.3
+SPM2b,Central and South America,Agriculture/ crop production,Increase in adverse impacts,Medium,12.3.1.4; 12.3.2.4; 12.3.3.4; 12.3.4.4; 12.3.5.4; 12.3.6.4; 12.3.7.4; 12.5.4.1; Figure 12.9; Table 12.4
+SPM2b,Central and South America,Animal and livestock health and productivity,Increasing adverse and positive impacts,Medium,12.3.1.4; 12.3.3.4; 12.3.4.4; 12.3.5.4; 12.3.6.4; Figure 12.9
+SPM2b,Central and South America,Fisheries yields and aquaculture production,Increase in adverse impacts,Medium,12.3.2.2; 12.3.3.4;12.3.5.4; 12.3.7.4; Figure 12.9; Figure 12.10
+SPM2b,Central and South America,Infectious diseases,Increase in adverse impacts,Medium,12.3.2.4; 12.3.3.4; 12.3.5.4 12.3.6.4; 12.7.2.6; Figure 12.9; Figure 12.10; Table 12.1
+SPM2b,Central and South America,Heat; malnutrition and other,Increase in adverse impacts,Medium,12.3.8.4; 12.5.7.1; 12.3.1.3 Table 12.6 Figure 12.9; Figure 12.10; Table 12.2; Table 12.5
+SPM2b,Central and South America,Mental health,Not assessed,,
+SPM2b,Central and South America,Displacement,Increase in adverse impacts,Medium,12.3.1.4; 12.3.2.4; 12.3.3.4; 12.3.5.4; 12.5.8.4
+SPM2b,Central and South America,Inland flooding and associated damages,Increase in adverse impacts,Medium,12.3.2.4; 12.3.3.4; 12.3.4.4
+SPM2b,Central and South America,Flood/storm induced damages in coastal areas,Increase in adverse impacts,Low,Figure 12.9
+SPM2b,Central and South America,Damages to infrastructure,Increase in adverse impacts,Medium,12.3.3.4; 12.3.1.4; 12.3.7.4
+SPM2b,Central and South America,Damages to key economic sectors,Increase in adverse impacts,Medium,12.3.1.4; 12.3.3.4; 12.3.4.4; 12.3.6.3; 12.3.6.4; 12.10; Figure 12.9; Table SM12.3
+SPM2b,Europe,Water scarcity,Increasing adverse and positive impacts,Medium,13.2.1; 13.10.1; 13.10.2.3; Figure 13.29; Table SM4.3
+SPM2b,Europe,Agriculture/ crop production,Increasing adverse and positive impacts,High,13.5.1.1; 13.10.1; 13.10.2.2; Figure 13.29
+SPM2b,Europe,Animal and livestock health and productivity,Increase in adverse impacts,Medium,13.5.1.2
+SPM2b,Europe,Fisheries yields and aquaculture production,Increasing adverse and positive impacts,Medium,13.5.1.3
+SPM2b,Europe,Infectious diseases,Increase in adverse impacts,Medium,2.4.2.7; CCB ILLNESS in Chapter 2; 13.7.1.3; 13.10.1; 13.10.2.1; Figure 13.24; Figure 13.29
+SPM2b,Europe,Heat; malnutrition and other,Increase in adverse impacts,Medium,13.7.1.1; 13.7.1.4-13.7.1.7; 13.10.1
+SPM2b,Europe,Mental health,Increase in adverse impacts,High,13.7.1.7; CCP6.2.6
+SPM2b,Europe,Displacement,Increase in adverse impacts,Low,13.8.1.2
+SPM2b,Europe,Inland flooding and associated damages,Increase in adverse impacts,Medium,13.2.1.2
+SPM2b,Europe,Flood/storm induced damages in coastal areas,Increase in adverse impacts,Low,13.2.1.1; Figure 13.12
+SPM2b,Europe,Damages to infrastructure,Increase in adverse impacts,Medium,13.10.1; 13.10.2.4; Figure 13.29; Table SM13.8.1
+SPM2b,Europe,Damages to key economic sectors,Increase in adverse impacts,Medium,13.2.1.2; 13.6.1.1; 13.10.1; Figure 13.2; Figure 13.29
+SPM2b,North America,Water scarcity,Increasing adverse and positive impacts,Medium,14.5.1; 14.5.2; 14.5.3; Table SM4.3
+SPM2b,North America,Agriculture/ crop production,Increasing adverse and positive impacts,High,14.5.4; Table SM14.2
+SPM2b,North America,Animal and livestock health and productivity,Increase in adverse impacts,Low,14.5.4.1; Table SM14.2-5
+SPM2b,North America,Fisheries yields and aquaculture production,Increasing adverse and positive impacts,Medium,14.5.1; 14.5.3; 14.5.4.2; 4.5.6; 14.7; Figure 14.6; Table SM14.7
+SPM2b,North America,Infectious diseases,Increase in adverse impacts,High,2.4.2.7; CCB ILLNESS in Chapter 2; 14.5.6; Box 14.2
+SPM2b,North America,Heat; malnutrition and other,Increase in adverse impacts,High,14.4; 14.5.2; 14.5.6; Box 14.2; Figure 14.8
+SPM2b,North America,Mental health,Increase in adverse impacts,High,14.4; 14.5.6.8; 14.6.1; CCP6.2.6
+SPM2b,North America,Displacement,Increase in adverse impacts,High,14.5.9.1; 14.5.5.1
+SPM2b,North America,Inland flooding and associated damages,Increase in adverse impacts,Medium,14.2.1
+SPM2b,North America,Flood/storm induced damages in coastal areas,Increase in adverse impacts,High,14.5.5.1; Box 14.4
+SPM2b,North America,Damages to infrastructure,Increase in adverse impacts,High,14.5.3.1
+SPM2b,North America,Damages to key economic sectors,Increase in adverse impacts,High,14.5.1-14.5.7; 14.5.9; Box 14.1; Box 14.5; Box 14.6
+SPM2b,Small Islands,Water scarcity,Increase in adverse impacts,High,15.3.3.2; 15.3.4.3; 15.3.4.4; Table SM4.3; Figure 15.6
+SPM2b,Small Islands,Agriculture/ crop production,Increase in adverse impacts,Medium,15.3.4.4
+SPM2b,Small Islands,Animal and livestock health and productivity,Increase in adverse impacts,Medium,15.3.4.4
+SPM2b,Small Islands,Fisheries yields and aquaculture production,Increase in adverse impacts,High,15.3.3.1; 15.3.4.4; Figure 15.6
+SPM2b,Small Islands,Infectious diseases,Increase in adverse impacts,Low,15.3.4.2; 15.3.4.9.2
+SPM2b,Small Islands,Heat; malnutrition and other,Increase in adverse impacts,High,15.3.4.2; Box 15.1
+SPM2b,Small Islands,Mental health,Increase in adverse impacts,,15.3.4.2
+SPM2b,Small Islands,Displacement,Increase in adverse impacts,Medium,15.3.4.6; Figure 15.6
+SPM2b,Small Islands,Inland flooding and associated damages,Increase in adverse impacts,High,15.3.4.6; Figure 15.6
+SPM2b,Small Islands,Flood/storm induced damages in coastal areas,Increase in adverse impacts,High,15.3.3.1; 15.3.3.2; 15.3.4.1-15.3.4.5; 15.3.4.7
+SPM2b,Small Islands,Damages to infrastructure,Increase in adverse impacts,High,15.3.4.1; 15.3.4.4; Figure 15.6
+SPM2b,Small Islands,Damages to key economic sectors,Increase in adverse impacts,High,15.3.3.2; 15.3.4.3; 15.3.4.4; Figure 15.6; Table SM4.3
+SPM2b,Arctic,Water scarcity,Increasing adverse and positive impacts,Low,
+SPM2b,Arctic,Agriculture/ crop production,Increasing adverse and positive impacts,High,CCP6.2.2.1; CCP6.2.3.2; Table CCP6.3
+SPM2b,Arctic,Animal and livestock health and productivity,Increase in adverse impacts,High,CCP6.2.2.1; CCP6.2.3.2; Table CCP6.3
+SPM2b,Arctic,Fisheries yields and aquaculture production,Increase in adverse impacts,High,CCP6.2.1.1; CCP6.2.1.4; CCP6.2.3.3 CCP6.2.1-CCP6.2.3; CCP6.3.1; Table CCP 6.4; SROCC 3.2.4.1.1
+SPM2b,Arctic,Infectious diseases,Increase in adverse impacts,High,2.4.2.7; CCP6.2.6
+SPM2b,Arctic,Heat; malnutrition and other,Increase in adverse impacts,High,CCP6.2.6; Box CCP6.2; Figure CCP6.3
+SPM2b,Arctic,Mental health,Increase in adverse impacts,High,CCP6.2.6
+SPM2b,Arctic,Displacement,Increase in adverse impacts,Low,CCP6.2.5
+SPM2b,Arctic,Inland flooding and associated damages,Increase in adverse impacts,High,Table CCP6.1
+SPM2b,Arctic,Flood/storm induced damages in coastal areas,Increase in adverse impacts,Medium,CCP6.2.5; Table CCP6.1
+SPM2b,Arctic,Damages to infrastructure,Increase in adverse impacts,High,CCP6.2.4.3; CCP6.2.5
+SPM2b,Arctic,Damages to key economic sectors,Increasing adverse and positive impacts,High,CCP6.2.4; Table CCP6.3
+SPM2b,Cities by the Sea,Water scarcity,Evidence limited; insufficient,,
+SPM2b,Cities by the Sea,Agriculture/ crop production,Evidence limited; insufficient,,
+SPM2b,Cities by the Sea,Animal and livestock health and productivity,Evidence limited; insufficient,,
+SPM2b,Cities by the Sea,Fisheries yields and aquaculture production,Increase in adverse impacts,High,CCP2.2
+SPM2b,Cities by the Sea,Infectious diseases,Evidence limited; insufficient,,
+SPM2b,Cities by the Sea,Heat; malnutrition and other,Increase in adverse impacts,High,CCP6.2.3; CCP2.2
+SPM2b,Cities by the Sea,Mental health,Not assessed,,
+SPM2b,Cities by the Sea,Displacement,Increase in adverse impacts,Medium,2.3.5; 2.4.2; SMCCP2.1.2
+SPM2b,Cities by the Sea,Inland flooding and associated damages,Evidence limited; insufficient,,
+SPM2b,Cities by the Sea,Flood/storm induced damages in coastal areas,Increase in adverse impacts,High,CCP2.2; SMCCP2.2
+SPM2b,Cities by the Sea,Damages to infrastructure,Increase in adverse impacts,High,CCP2.2; SMCCP2.2
+SPM2b,Cities by the Sea,Damages to key economic sectors,Increase in adverse impacts,High,CCP2.2; Table CCP2.1; SMCCP2.1
+SPM2b,Mediterranean Region,Water scarcity,Increase in adverse impacts,High,CCP4.1.2; CCP4.1.4; CCP4.2.1- CCP4.2.3
+SPM2b,Mediterranean Region,Agriculture/ crop production,Increase in adverse impacts,Medium,CCP4.1.4; Figure CCP4.5; Table SMCCP4.1
+SPM2b,Mediterranean Region,Animal and livestock health and productivity,Increase in adverse impacts,High,Table CCP4.5; CCP4 SM
+SPM2b,Mediterranean Region,Fisheries yields and aquaculture production,Increase in adverse impacts,High,CCP4.1.4
+SPM2b,Mediterranean Region,Infectious diseases,Increase in adverse impacts,Low,Chapter 13; Figure 13.27
+SPM2b,Mediterranean Region,Heat; malnutrition and other,Increase in adverse impacts,High,CCP4.2.3; Figure CCP4.5; Sup Mat of CCP4
+SPM2b,Mediterranean Region,Mental health,Not assessed,,
+SPM2b,Mediterranean Region,Displacement,Increase in adverse impacts,Low,CCP4.2.3
+SPM2b,Mediterranean Region,Inland flooding and associated damages,Increasing adverse and positive impacts,Low,CCP4.1.4
+SPM2b,Mediterranean Region,Flood/storm induced damages in coastal areas,Increase in adverse impacts,Low,CCP4.1.4; Figure CCP4.5
+SPM2b,Mediterranean Region,Damages to infrastructure,Evidence limited; insufficient,,
+SPM2b,Mediterranean Region,Damages to key economic sectors,Increase in adverse impacts,Medium,Figure 13.27
+SPM2b,Mountain Regions,Water scarcity,Increasing adverse and positive impacts,High,CCP5.2.2; CCP5.2.7; Figure CCP5.2; Figure CCP5.4; SMCCP5.2; Tables SMCCP5.5-5.14
+SPM2b,Mountain Regions,Agriculture/ crop production,Increasing adverse and positive impacts,Medium,CCP5.2.3; CCP5.2.5; CCP5.2.7; Figure CCP5.4; SMCCP5.2; Tables SMCCP5.5-5.14
+SPM2b,Mountain Regions,Animal and livestock health and productivity,Increase in adverse impacts,Medium,CCP5.2.3; CCP5.2.5; CCP5.2.7; Figure CCP5.4; SMCCP5.2; Tables SMCCP5.5-5.14
+SPM2b,Mountain Regions,Fisheries yields and aquaculture production,Evidence limited; insufficient,,Evidence limited; insufficient
+SPM2b,Mountain Regions,Infectious diseases,Increase in adverse impacts,Medium,CCP5.2.5; Figure CCP5.4; SMCCP5.2; Tables CCP5.1; SMCCP5.5-5.14 Add Chapter 7 Table 7.6
+SPM2b,Mountain Regions,Heat; malnutrition and other,Increase in adverse impacts,Medium,CCP5.2.5; Figure CCP5.4; SMCCP5.2; Tables CCP5.1; SMCCP5.5-5.14
+SPM2b,Mountain Regions,Mental health,Increase in adverse impacts,,Table CCP5.1;
+SPM2b,Mountain Regions,Displacement,Increase in adverse impacts,Medium,CCP5.2.5; Figure CCP5.4; SMCCP5.2; Tables CCP5.1; SMCCP5.5-5.14
+SPM2b,Mountain Regions,Inland flooding and associated damages,Increase in adverse impacts,High,CCP5.2.5; CCP5.2.6; Figure CCP5.4; SMCCP5.2; Tables SMCCP5.5-5.14
+SPM2b,Mountain Regions,Flood/storm induced damages in coastal areas,Not applicable,,
+SPM2b,Mountain Regions,Damages to infrastructure,Increase in adverse impacts,High,CCP5.2.5; CCP5.2.6; Figure CCP5.4; SMCCP5.2; Tables SMCCP5.5-5.14
+SPM2b,Mountain Regions,Damages to key economic sectors,Increase in adverse impacts,High,CCP5.2.4; CCP5.2.5; CCP5.2.6; Figure CCP5.4; SMCCP5.2; Tables SMCCP5.5-5.14

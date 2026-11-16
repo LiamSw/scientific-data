@@ -1,0 +1,5 @@
+year,lcc_flights,total_ifr_flights,lcc_share_pct,source_url,source_table,geographic_scope,calculation
+2019,3493913,11085302,31.5184,https://permanent-release-v9-0-3--standard-inputs.netlify.app/chapters/number_of_ifr_flights.html,"Standard Inputs 9.0.3, table 3.2","ECAC Europe, IFR flight movements",lcc_flights / total_ifr_flights * 100
+2020,1243422,4979078,24.9729,https://permanent-release-v9-0-3--standard-inputs.netlify.app/chapters/number_of_ifr_flights.html,"Standard Inputs 9.0.3, table 3.2","ECAC Europe, IFR flight movements",lcc_flights / total_ifr_flights * 100
+2021,1610239,6230752,25.8434,https://permanent-release-v9-0-3--standard-inputs.netlify.app/chapters/number_of_ifr_flights.html,"Standard Inputs 9.0.3, table 3.2","ECAC Europe, IFR flight movements",lcc_flights / total_ifr_flights * 100
+2022,2984376,9237693,32.3065,https://permanent-release-v10-0-0--standard-inputs.netlify.app/chapters/number_of_ifr_flights.html,"Standard Inputs 10.0.0, table 3.2","ECAC Europe, IFR flight movements",lcc_flights / total_ifr_flights * 100

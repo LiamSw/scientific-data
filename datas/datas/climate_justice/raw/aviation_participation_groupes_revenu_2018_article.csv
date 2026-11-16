@@ -1,0 +1,5 @@
+﻿income_country_group,year,population_million,airline_passenger_movements_million,passenger_movements_per_capita,estimated_population_who_flew_pct,estimated_unique_flyers_million,method_caveat,source_table,source_doi
+Low income,2018,705,23,0.03,0.7,4.9,"modelled participation assuming 40pct of theoretical maximum, not observed survey rate",Table 2,https://doi.org/10.1016/j.gloenvcha.2020.102194
+Lower middle income,2018,3023,454,0.15,3.0,90.7,"modelled participation assuming 40pct of theoretical maximum, not observed survey rate",Table 2,https://doi.org/10.1016/j.gloenvcha.2020.102194
+Upper middle income,2018,2656,1313,0.49,10.0,265.6,"modelled participation assuming 40pct of theoretical maximum, not observed survey rate",Table 2,https://doi.org/10.1016/j.gloenvcha.2020.102194
+High income,2018,1210,2442,2.02,40.0,484.0,"modelled participation assuming 40pct of theoretical maximum, not observed survey rate",Table 2,https://doi.org/10.1016/j.gloenvcha.2020.102194
