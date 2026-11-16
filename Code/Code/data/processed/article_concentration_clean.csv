@@ -1,0 +1,3 @@
+﻿population_group,year,share_world_population_pct,estimated_share_commercial_passenger_aviation_co2_pct,estimate_status,source_section,source_doi
+Top frequent flyers (approx 1pct),2018,1,50,article_model_based_approximation,Section 4.4,https://doi.org/10.1016/j.gloenvcha.2020.102194
+Remaining population (approx 99pct),2018,99,50,calculated_complement_of_approximation,Section 4.4,https://doi.org/10.1016/j.gloenvcha.2020.102194

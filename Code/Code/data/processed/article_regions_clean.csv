@@ -1,0 +1,9 @@
+﻿region,year,rpk_global_share_pct,rpk_per_capita,co2_commercial_passenger_mt,co2_commercial_passenger_kg_per_capita,source_table_rpk,source_table_co2,data_status,source_doi
+Africa,2018,1.8,123.0,14,11.0,Table 3,Table 4,article_estimate,https://doi.org/10.1016/j.gloenvcha.2020.102194
+Asia-Pacific,2018,32.5,648.0,241,57.0,Table 3,Table 4,article_estimate,https://doi.org/10.1016/j.gloenvcha.2020.102194
+CIS,2018,2.5,894.0,19,78.0,Table 3,Table 4,article_estimate,https://doi.org/10.1016/j.gloenvcha.2020.102194
+Europe,2018,22.7,2867.0,169,250.0,Table 3,Table 4,article_estimate,https://doi.org/10.1016/j.gloenvcha.2020.102194
+Latin America,2018,6.0,790.0,44,69.0,Table 3,Table 4,article_estimate,https://doi.org/10.1016/j.gloenvcha.2020.102194
+Middle East,2018,6.4,3181.0,47,278.0,Table 3,Table 4,article_estimate,https://doi.org/10.1016/j.gloenvcha.2020.102194
+North America,2018,25.6,5967.0,190,521.0,Table 3,Table 4,article_estimate,https://doi.org/10.1016/j.gloenvcha.2020.102194
+Rest of world,2018,2.5,,19,,Table 3,Table 4,article_estimate,https://doi.org/10.1016/j.gloenvcha.2020.102194

@@ -27,6 +27,14 @@ plt.rcParams.update({
 })
 ORANGE = "#DB783F"
 LIGHT = "#8EBAC6"
+REGION_COLORS = {
+    "Europe": "#1f77b4",
+    "North America": "#E377C2",
+    "Asia": "#2ca02c",
+    "South America": "#d62728",
+    "Oceania": "#9467bd",
+    "Africa": ORANGE,
+}
 
 
 def save_chart(fig, base_name):
@@ -91,7 +99,15 @@ def main():
 
     fig, ax = plt.subplots(figsize=(11.5, 5.8))
     for col in series:
-        ax.plot(series.index, series[col], linewidth=2, marker="o", markersize=3.8, label=col)
+        ax.plot(
+            series.index,
+            series[col],
+            color=REGION_COLORS[col],
+            linewidth=2,
+            marker="o",
+            markersize=3.8,
+            label=col,
+        )
     ax.axvline(2020, color="#999999", linestyle="--", linewidth=1)
     ax.text(2020.10, ax.get_ylim()[1] * 0.88, "2020", color="#777777", fontsize=9)
     ax.set_xlim(2013, 2024)

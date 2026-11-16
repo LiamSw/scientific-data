@@ -1,0 +1,897 @@
+﻿entity,iso3_or_owid,year,co2_international_kg_per_capita_adjusted,world_region,is_aggregate
+Africa,OWID_AFR,2013,4.170418,,True
+Africa,OWID_AFR,2014,4.2112026,,True
+Africa,OWID_AFR,2015,3.9919689,,True
+Africa,OWID_AFR,2016,4.8486314,,True
+Africa,OWID_AFR,2017,3.7846892,,True
+Africa,OWID_AFR,2018,4.134324,,True
+Africa,OWID_AFR,2019,5.423983,,True
+Africa,OWID_AFR,2020,2.5368128,,True
+Africa,OWID_AFR,2021,1.915605,,True
+Africa,OWID_AFR,2022,4.397323,,True
+Albania,ALB,2020,2.877849,Europe,False
+Albania,ALB,2021,2.5746374,Europe,False
+Albania,ALB,2022,7.951216,Europe,False
+Albania,ALB,2023,11.542371,Europe,False
+Albania,ALB,2024,21.44872,Europe,False
+Argentina,ARG,2013,66.79847,South America,False
+Argentina,ARG,2014,56.412064,South America,False
+Argentina,ARG,2015,68.9326,South America,False
+Argentina,ARG,2016,99.9319,South America,False
+Argentina,ARG,2017,123.11326,South America,False
+Argentina,ARG,2018,114.90964,South America,False
+Argentina,ARG,2019,79.82799,South America,False
+Argentina,ARG,2020,27.244541,South America,False
+Argentina,ARG,2021,48.5948,South America,False
+Argentina,ARG,2022,51.96416,South America,False
+Argentina,ARG,2023,50.574135,South America,False
+Argentina,ARG,2024,67.02559,South America,False
+Armenia,ARM,2013,57.841515,Asia,False
+Armenia,ARM,2014,67.84495,Asia,False
+Armenia,ARM,2015,57.49055,Asia,False
+Armenia,ARM,2016,56.999527,Asia,False
+Armenia,ARM,2017,69.689926,Asia,False
+Armenia,ARM,2018,77.59009,Asia,False
+Armenia,ARM,2019,75.81831,Asia,False
+Armenia,ARM,2020,22.682367,Asia,False
+Armenia,ARM,2021,30.808475,Asia,False
+Armenia,ARM,2022,64.242744,Asia,False
+Armenia,ARM,2023,87.056915,Asia,False
+Armenia,ARM,2024,94.47273,Asia,False
+Asia,OWID_ASI,2013,24.880491,,True
+Asia,OWID_ASI,2014,26.758635,,True
+Asia,OWID_ASI,2015,30.863731,,True
+Asia,OWID_ASI,2016,35.26015,,True
+Asia,OWID_ASI,2017,34.063053,,True
+Asia,OWID_ASI,2018,34.042686,,True
+Asia,OWID_ASI,2019,36.792545,,True
+Asia,OWID_ASI,2020,11.492027,,True
+Asia,OWID_ASI,2021,9.617526,,True
+Asia,OWID_ASI,2022,12.961772,,True
+Asia,OWID_ASI,2023,17.704819,,True
+Asia,OWID_ASI,2024,20.065744,,True
+Austria,AUT,2013,96.66899,Europe,False
+Austria,AUT,2014,103.52931,Europe,False
+Austria,AUT,2015,97.71829,Europe,False
+Austria,AUT,2016,103.94323,Europe,False
+Austria,AUT,2017,99.54461,Europe,False
+Austria,AUT,2018,101.681854,Europe,False
+Austria,AUT,2019,122.70713,Europe,False
+Austria,AUT,2020,29.23926,Europe,False
+Austria,AUT,2021,79.110855,Europe,False
+Austria,AUT,2022,120.83008,Europe,False
+Azerbaijan,AZE,2013,59.53562,Asia,False
+Azerbaijan,AZE,2014,60.02048,Asia,False
+Azerbaijan,AZE,2015,67.4414,Asia,False
+Azerbaijan,AZE,2016,68.4345,Asia,False
+Azerbaijan,AZE,2017,59.793617,Asia,False
+Azerbaijan,AZE,2018,65.14435,Asia,False
+Azerbaijan,AZE,2019,68.71742,Asia,False
+Azerbaijan,AZE,2022,44.899113,Asia,False
+Bahrain,BHR,2015,571.1589,Asia,False
+Bahrain,BHR,2016,287.96515,Asia,False
+Bahrain,BHR,2017,254.19461,Asia,False
+Bahrain,BHR,2018,228.15436,Asia,False
+Bahrain,BHR,2019,268.7645,Asia,False
+Bahrain,BHR,2020,116.669624,Asia,False
+Bahrain,BHR,2021,63.147606,Asia,False
+Bahrain,BHR,2022,84.90363,Asia,False
+Bahrain,BHR,2023,78.97834,Asia,False
+Bahrain,BHR,2024,71.507805,Asia,False
+Bangladesh,BGD,2013,78.33166,Asia,False
+Bangladesh,BGD,2019,37.236294,Asia,False
+Belarus,BLR,2013,11.016549,Europe,False
+Belarus,BLR,2014,12.058346,Europe,False
+Belarus,BLR,2015,13.869604,Europe,False
+Belarus,BLR,2016,5.8879647,Europe,False
+Belarus,BLR,2017,9.045358,Europe,False
+Belarus,BLR,2018,10.714148,Europe,False
+Belarus,BLR,2019,14.025567,Europe,False
+Belarus,BLR,2020,6.958468,Europe,False
+Belarus,BLR,2021,10.895176,Europe,False
+Belarus,BLR,2022,3.5513794,Europe,False
+Belgium,BEL,2013,308.05954,Europe,False
+Belgium,BEL,2014,331.32614,Europe,False
+Belgium,BEL,2015,320.16107,Europe,False
+Belgium,BEL,2016,420.69608,Europe,False
+Belgium,BEL,2017,426.8599,Europe,False
+Belgium,BEL,2018,450.33466,Europe,False
+Belgium,BEL,2019,514.53644,Europe,False
+Belgium,BEL,2020,340.24994,Europe,False
+Belgium,BEL,2021,497.36453,Europe,False
+Belgium,BEL,2022,515.935,Europe,False
+Belgium,BEL,2023,498.6788,Europe,False
+Belgium,BEL,2024,519.3914,Europe,False
+Bhutan,BTN,2019,3.4218118,Asia,False
+Bolivia,BOL,2013,19.754398,South America,False
+Bolivia,BOL,2014,20.765898,South America,False
+Bolivia,BOL,2015,23.006632,South America,False
+Bolivia,BOL,2016,19.980694,South America,False
+Bolivia,BOL,2017,18.461063,South America,False
+Bolivia,BOL,2018,21.307453,South America,False
+Bolivia,BOL,2019,18.540026,South America,False
+Bolivia,BOL,2020,10.55405,South America,False
+Bolivia,BOL,2021,23.286179,South America,False
+Bolivia,BOL,2022,17.471422,South America,False
+Brazil,BRA,2013,52.209076,South America,False
+Brazil,BRA,2014,54.77431,South America,False
+Brazil,BRA,2015,54.77478,South America,False
+Brazil,BRA,2016,44.083282,South America,False
+Brazil,BRA,2017,49.959026,South America,False
+Brazil,BRA,2018,55.481422,South America,False
+Bulgaria,BGR,2013,20.248514,Europe,False
+Bulgaria,BGR,2014,22.206884,Europe,False
+Bulgaria,BGR,2015,26.647753,Europe,False
+Bulgaria,BGR,2016,38.94233,Europe,False
+Bulgaria,BGR,2017,45.119778,Europe,False
+Bulgaria,BGR,2018,59.21915,Europe,False
+Bulgaria,BGR,2019,72.85751,Europe,False
+Bulgaria,BGR,2020,130.37387,Europe,False
+Bulgaria,BGR,2021,105.25499,Europe,False
+Bulgaria,BGR,2022,83.24679,Europe,False
+Cambodia,KHM,2013,4.5198803,Asia,False
+Cambodia,KHM,2014,5.531749,Asia,False
+Cambodia,KHM,2015,6.2841783,Asia,False
+Cambodia,KHM,2016,7.816664,Asia,False
+Cambodia,KHM,2017,10.7337,Asia,False
+Cambodia,KHM,2018,13.056741,Asia,False
+Cambodia,KHM,2019,13.946267,Asia,False
+Cambodia,KHM,2020,2.9362013,Asia,False
+Cambodia,KHM,2021,0.7965888,Asia,False
+Cambodia,KHM,2022,4.1381354,Asia,False
+Canada,CAN,2013,545.09796,North America,False
+Canada,CAN,2014,565.3548,North America,False
+Canada,CAN,2015,520.349,North America,False
+Canada,CAN,2016,487.78098,North America,False
+Canada,CAN,2017,521.517,North America,False
+Canada,CAN,2018,547.9781,North America,False
+Canada,CAN,2019,527.42615,North America,False
+Canada,CAN,2020,409.45242,North America,False
+Canada,CAN,2021,194.98991,North America,False
+Canada,CAN,2022,384.61584,North America,False
+Canada,CAN,2023,463.29584,North America,False
+Canada,CAN,2024,514.9313,North America,False
+Chile,CHL,2013,73.84547,South America,False
+Chile,CHL,2014,78.16764,South America,False
+Chile,CHL,2015,73.486176,South America,False
+Chile,CHL,2016,65.55644,South America,False
+Chile,CHL,2017,62.013176,South America,False
+Chile,CHL,2018,75.44593,South America,False
+Chile,CHL,2019,79.542656,South America,False
+Chile,CHL,2020,41.637527,South America,False
+Chile,CHL,2021,130.90254,South America,False
+Chile,CHL,2022,80.775795,South America,False
+Chile,CHL,2023,88.92176,South America,False
+Chile,CHL,2024,70.784615,South America,False
+China,CHN,2013,20.447111,Asia,False
+China,CHN,2014,26.851707,Asia,False
+China,CHN,2015,32.653976,Asia,False
+China,CHN,2016,37.958675,Asia,False
+China,CHN,2017,42.33027,Asia,False
+China,CHN,2018,46.075817,Asia,False
+China,CHN,2019,58.06531,Asia,False
+China,CHN,2020,24.100815,Asia,False
+Colombia,COL,2013,52.437363,South America,False
+Colombia,COL,2014,54.21222,South America,False
+Colombia,COL,2015,48.96698,South America,False
+Colombia,COL,2016,46.276134,South America,False
+Colombia,COL,2017,45.881542,South America,False
+Colombia,COL,2018,47.531395,South America,False
+Colombia,COL,2019,50.461094,South America,False
+Colombia,COL,2020,19.553572,South America,False
+Colombia,COL,2021,39.027588,South America,False
+Colombia,COL,2022,48.92509,South America,False
+Cook Islands,COK,2013,248.66779,Oceania,False
+Cook Islands,COK,2014,250.00594,Oceania,False
+Cook Islands,COK,2015,264.9756,Oceania,False
+Cook Islands,COK,2016,281.26364,Oceania,False
+Cook Islands,COK,2017,250.63763,Oceania,False
+Cook Islands,COK,2018,280.21796,Oceania,False
+Cook Islands,COK,2019,270.32306,Oceania,False
+Cook Islands,COK,2020,113.82119,Oceania,False
+Cook Islands,COK,2021,117.036285,Oceania,False
+Cook Islands,COK,2022,138.94167,Oceania,False
+Costa Rica,CRI,2013,37.66454,North America,False
+Costa Rica,CRI,2014,36.97823,North America,False
+Costa Rica,CRI,2015,41.14355,North America,False
+Costa Rica,CRI,2016,49.70331,North America,False
+Costa Rica,CRI,2017,52.700054,North America,False
+Costa Rica,CRI,2018,52.61493,North America,False
+Costa Rica,CRI,2019,58.727325,North America,False
+Costa Rica,CRI,2020,18.896172,North America,False
+Costa Rica,CRI,2021,45.51394,North America,False
+Costa Rica,CRI,2022,54.14535,North America,False
+Costa Rica,CRI,2023,71.052414,North America,False
+Costa Rica,CRI,2024,84.159874,North America,False
+Croatia,HRV,2013,18.197056,Europe,False
+Croatia,HRV,2014,17.11615,Europe,False
+Croatia,HRV,2015,16.28266,Europe,False
+Croatia,HRV,2016,10.913727,Europe,False
+Croatia,HRV,2017,14.383558,Europe,False
+Croatia,HRV,2018,17.148994,Europe,False
+Croatia,HRV,2019,20.9774,Europe,False
+Croatia,HRV,2020,4.129989,Europe,False
+Croatia,HRV,2021,5.160445,Europe,False
+Croatia,HRV,2022,12.642028,Europe,False
+Cuba,CUB,2013,7.503512,North America,False
+Cuba,CUB,2014,9.419901,North America,False
+Cuba,CUB,2015,15.130074,North America,False
+Cuba,CUB,2016,10.994213,North America,False
+Cuba,CUB,2017,13.289479,North America,False
+Cuba,CUB,2018,14.159057,North America,False
+Cuba,CUB,2019,15.639947,North America,False
+Cuba,CUB,2020,8.54134,North America,False
+Cuba,CUB,2021,16.012705,North America,False
+Cuba,CUB,2022,23.667334,North America,False
+Cyprus,CYP,2020,191.88663,Europe,False
+Cyprus,CYP,2021,112.58397,Europe,False
+Cyprus,CYP,2022,256.96597,Europe,False
+Cyprus,CYP,2023,335.96802,Europe,False
+Cyprus,CYP,2024,336.64044,Europe,False
+Czechia,CZE,2013,42.16861,Europe,False
+Czechia,CZE,2014,39.91847,Europe,False
+Czechia,CZE,2015,38.8642,Europe,False
+Czechia,CZE,2016,42.49189,Europe,False
+Czechia,CZE,2017,52.06469,Europe,False
+Czechia,CZE,2018,62.6147,Europe,False
+Czechia,CZE,2019,64.19644,Europe,False
+Czechia,CZE,2020,21.811882,Europe,False
+Czechia,CZE,2021,35.037502,Europe,False
+Democratic Republic of Congo,COD,2015,1.7715869,Africa,False
+Democratic Republic of Congo,COD,2016,2.2247186,Africa,False
+Denmark,DNK,2013,298.12558,Europe,False
+Denmark,DNK,2014,313.43674,Europe,False
+Denmark,DNK,2015,342.841,Europe,False
+Denmark,DNK,2016,399.55554,Europe,False
+Denmark,DNK,2017,292.62988,Europe,False
+Denmark,DNK,2018,280.1975,Europe,False
+Denmark,DNK,2019,298.71225,Europe,False
+Denmark,DNK,2020,109.71406,Europe,False
+Denmark,DNK,2021,82.151405,Europe,False
+Denmark,DNK,2022,142.28845,Europe,False
+Dominican Republic,DOM,2013,11.89854,North America,False
+Dominican Republic,DOM,2014,12.614755,North America,False
+Dominican Republic,DOM,2015,13.286102,North America,False
+Dominican Republic,DOM,2016,13.323494,North America,False
+Dominican Republic,DOM,2017,13.401539,North America,False
+Dominican Republic,DOM,2018,13.025348,North America,False
+Dominican Republic,DOM,2019,14.258452,North America,False
+Dominican Republic,DOM,2020,6.690607,North America,False
+Dominican Republic,DOM,2021,14.641121,North America,False
+Dominican Republic,DOM,2022,17.991787,North America,False
+Dominican Republic,DOM,2023,19.41143,North America,False
+Dominican Republic,DOM,2024,19.377989,North America,False
+El Salvador,SLV,2013,58.86825,North America,False
+El Salvador,SLV,2014,61.618034,North America,False
+El Salvador,SLV,2015,62.925972,North America,False
+El Salvador,SLV,2016,70.57975,North America,False
+El Salvador,SLV,2017,63.200024,North America,False
+El Salvador,SLV,2018,57.2635,North America,False
+El Salvador,SLV,2019,64.58356,North America,False
+El Salvador,SLV,2020,21.056835,North America,False
+El Salvador,SLV,2021,40.41203,North America,False
+El Salvador,SLV,2022,43.199356,North America,False
+El Salvador,SLV,2023,52.46751,North America,False
+El Salvador,SLV,2024,55.445194,North America,False
+Estonia,EST,2013,28.824875,Europe,False
+Estonia,EST,2014,38.061657,Europe,False
+Estonia,EST,2015,40.525185,Europe,False
+Estonia,EST,2016,43.856606,Europe,False
+Estonia,EST,2017,46.547657,Europe,False
+Estonia,EST,2018,81.08419,Europe,False
+Estonia,EST,2019,71.14719,Europe,False
+Estonia,EST,2020,20.523655,Europe,False
+Estonia,EST,2021,67.32795,Europe,False
+Estonia,EST,2022,67.39944,Europe,False
+Eswatini,SWZ,2013,4.743729,Africa,False
+Eswatini,SWZ,2014,14.998784,Africa,False
+Eswatini,SWZ,2015,29.324797,Africa,False
+Eswatini,SWZ,2016,4.965345,Africa,False
+Eswatini,SWZ,2017,4.909313,Africa,False
+Eswatini,SWZ,2018,5.592384,Africa,False
+Ethiopia,ETH,2024,29.834934,Africa,False
+Europe,OWID_EUR,2013,120.492615,,True
+Europe,OWID_EUR,2014,115.5628,,True
+Europe,OWID_EUR,2015,117.711624,,True
+Europe,OWID_EUR,2016,125.56646,,True
+Europe,OWID_EUR,2017,136.84778,,True
+Europe,OWID_EUR,2018,152.46849,,True
+Europe,OWID_EUR,2019,153.2359,,True
+Europe,OWID_EUR,2020,71.3513,,True
+Europe,OWID_EUR,2021,79.2279,,True
+Europe,OWID_EUR,2022,178.10997,,True
+Europe,OWID_EUR,2023,248.44363,,True
+Europe,OWID_EUR,2024,289.61826,,True
+Fiji,FJI,2016,369.74362,Oceania,False
+Fiji,FJI,2017,388.46976,Oceania,False
+Fiji,FJI,2018,426.00027,Oceania,False
+Fiji,FJI,2019,431.2472,Oceania,False
+Fiji,FJI,2020,137.90984,Oceania,False
+Fiji,FJI,2021,54.112488,Oceania,False
+Fiji,FJI,2022,248.11736,Oceania,False
+Fiji,FJI,2023,390.61,Oceania,False
+Fiji,FJI,2024,405.71228,Oceania,False
+Finland,FIN,2013,891.06976,Europe,False
+Finland,FIN,2014,946.2473,Europe,False
+Finland,FIN,2015,1073.8118,Europe,False
+Finland,FIN,2016,1057.2737,Europe,False
+Finland,FIN,2017,991.48676,Europe,False
+Finland,FIN,2018,1123.9424,Europe,False
+Finland,FIN,2019,1174.4093,Europe,False
+Finland,FIN,2023,510.8117,Europe,False
+Finland,FIN,2024,508.30658,Europe,False
+France,FRA,2013,73.06549,Europe,False
+France,FRA,2014,81.01702,Europe,False
+France,FRA,2015,77.638794,Europe,False
+France,FRA,2016,78.42385,Europe,False
+France,FRA,2017,83.633736,Europe,False
+France,FRA,2018,88.70857,Europe,False
+France,FRA,2019,91.32692,Europe,False
+France,FRA,2020,30.878729,Europe,False
+France,FRA,2021,33.83885,Europe,False
+Georgia,GEO,2013,49.338715,Asia,False
+Georgia,GEO,2014,51.145573,Asia,False
+Georgia,GEO,2015,53.8004,Asia,False
+Georgia,GEO,2016,60.36078,Asia,False
+Georgia,GEO,2017,76.29816,Asia,False
+Georgia,GEO,2018,82.539085,Asia,False
+Georgia,GEO,2019,71.56367,Asia,False
+Georgia,GEO,2020,9.023603,Asia,False
+Georgia,GEO,2021,18.45341,Asia,False
+Georgia,GEO,2022,22.442095,Asia,False
+Georgia,GEO,2023,32.5284,Asia,False
+Georgia,GEO,2024,41.27245,Asia,False
+Germany,DEU,2013,711.69116,Europe,False
+Germany,DEU,2014,667.16754,Europe,False
+Germany,DEU,2015,655.48224,Europe,False
+Germany,DEU,2016,715.9601,Europe,False
+Germany,DEU,2017,700.6178,Europe,False
+Germany,DEU,2018,804.17664,Europe,False
+Germany,DEU,2019,735.2654,Europe,False
+Germany,DEU,2020,319.88406,Europe,False
+Germany,DEU,2021,527.6572,Europe,False
+Germany,DEU,2022,617.5351,Europe,False
+Germany,DEU,2023,675.5403,Europe,False
+Germany,DEU,2024,750.9948,Europe,False
+Ghana,GHA,2015,3.0081487,Africa,False
+Ghana,GHA,2016,3.3974009,Africa,False
+Ghana,GHA,2017,3.6866584,Africa,False
+Ghana,GHA,2018,3.7278724,Africa,False
+Ghana,GHA,2019,3.4652402,Africa,False
+Ghana,GHA,2020,3.8087013,Africa,False
+Greece,GRC,2013,38.95092,Europe,False
+Greece,GRC,2014,48.241768,Europe,False
+Greece,GRC,2015,57.18735,Europe,False
+Greece,GRC,2016,68.96267,Europe,False
+Greece,GRC,2017,73.28727,Europe,False
+Greece,GRC,2018,80.4428,Europe,False
+Greece,GRC,2019,83.62979,Europe,False
+Greece,GRC,2020,37.873726,Europe,False
+Greece,GRC,2021,32.051357,Europe,False
+Greece,GRC,2022,65.977905,Europe,False
+Guatemala,GTM,2013,6.5922036,North America,False
+Guatemala,GTM,2014,7.684256,North America,False
+Guatemala,GTM,2015,7.7253366,North America,False
+Guatemala,GTM,2016,8.324312,North America,False
+Guatemala,GTM,2017,8.176393,North America,False
+Guatemala,GTM,2018,9.533961,North America,False
+Guatemala,GTM,2019,11.975286,North America,False
+Guatemala,GTM,2020,6.5046053,North America,False
+Guatemala,GTM,2021,8.771682,North America,False
+Guatemala,GTM,2022,11.918723,North America,False
+Honduras,HND,2013,6.812953,North America,False
+Honduras,HND,2014,7.8937883,North America,False
+Honduras,HND,2015,9.325627,North America,False
+Honduras,HND,2016,9.350971,North America,False
+Honduras,HND,2017,7.2762604,North America,False
+Honduras,HND,2018,7.553018,North America,False
+Hungary,HUN,2013,23.024702,Europe,False
+Hungary,HUN,2014,24.724558,Europe,False
+Hungary,HUN,2015,28.453123,Europe,False
+Hungary,HUN,2016,33.682682,Europe,False
+Hungary,HUN,2017,37.89522,Europe,False
+Hungary,HUN,2018,47.653065,Europe,False
+Hungary,HUN,2019,57.103607,Europe,False
+Hungary,HUN,2020,19.174208,Europe,False
+Hungary,HUN,2021,22.156765,Europe,False
+Hungary,HUN,2022,45.847836,Europe,False
+Hungary,HUN,2023,62.37944,Europe,False
+Hungary,HUN,2024,81.95831,Europe,False
+Iceland,ISL,2013,605.41864,Europe,False
+Iceland,ISL,2014,635.62476,Europe,False
+Iceland,ISL,2015,662.4821,Europe,False
+Iceland,ISL,2016,790.3397,Europe,False
+Iceland,ISL,2017,920.6075,Europe,False
+Iceland,ISL,2018,1042.9375,Europe,False
+Iceland,ISL,2019,1001.93726,Europe,False
+Iceland,ISL,2020,211.66313,Europe,False
+Iceland,ISL,2021,349.17532,Europe,False
+India,IND,2013,14.794672,Asia,False
+India,IND,2014,8.88661,Asia,False
+India,IND,2015,10.030648,Asia,False
+India,IND,2016,10.429776,Asia,False
+India,IND,2019,11.428013,Asia,False
+India,IND,2020,8.14656,Asia,False
+India,IND,2021,18.316133,Asia,False
+India,IND,2022,19.443687,Asia,False
+India,IND,2023,21.02656,Asia,False
+India,IND,2024,24.937614,Asia,False
+Indonesia,IDN,2022,4.874635,Asia,False
+Indonesia,IDN,2023,9.947661,Asia,False
+Indonesia,IDN,2024,11.058176,Asia,False
+Iran,IRN,2021,10.455106,Asia,False
+Israel,ISR,2013,432.01465,Asia,False
+Israel,ISR,2014,490.60864,Asia,False
+Israel,ISR,2015,597.1754,Asia,False
+Israel,ISR,2016,689.0452,Asia,False
+Israel,ISR,2017,685.71967,Asia,False
+Israel,ISR,2018,735.2215,Asia,False
+Israel,ISR,2019,759.1815,Asia,False
+Israel,ISR,2020,227.83534,Asia,False
+Israel,ISR,2021,1130.5433,Asia,False
+Israel,ISR,2022,833.8772,Asia,False
+Israel,ISR,2023,854.5859,Asia,False
+Israel,ISR,2024,1260.3805,Asia,False
+Italy,ITA,2013,71.21318,Europe,False
+Italy,ITA,2014,74.83417,Europe,False
+Italy,ITA,2015,78.68935,Europe,False
+Italy,ITA,2016,86.869545,Europe,False
+Italy,ITA,2017,88.85799,Europe,False
+Italy,ITA,2018,96.18318,Europe,False
+Italy,ITA,2019,102.493286,Europe,False
+Italy,ITA,2020,26.118895,Europe,False
+Italy,ITA,2021,30.971302,Europe,False
+Italy,ITA,2022,67.37485,Europe,False
+Italy,ITA,2023,91.07892,Europe,False
+Italy,ITA,2024,119.30089,Europe,False
+Jordan,JOR,2013,40.26571,Asia,False
+Jordan,JOR,2014,30.251066,Asia,False
+Jordan,JOR,2016,35.707077,Asia,False
+Jordan,JOR,2017,34.045185,Asia,False
+Jordan,JOR,2018,30.620169,Asia,False
+Jordan,JOR,2019,28.958637,Asia,False
+Jordan,JOR,2020,9.119698,Asia,False
+Jordan,JOR,2021,19.32759,Asia,False
+Jordan,JOR,2022,23.348042,Asia,False
+Kazakhstan,KAZ,2013,69.02123,Asia,False
+Kazakhstan,KAZ,2014,81.06109,Asia,False
+Latvia,LVA,2013,126.774506,Europe,False
+Latvia,LVA,2014,112.00089,Europe,False
+Latvia,LVA,2015,98.62829,Europe,False
+Latvia,LVA,2016,114.08287,Europe,False
+Latvia,LVA,2017,102.437485,Europe,False
+Latvia,LVA,2018,120.05695,Europe,False
+Latvia,LVA,2019,171.18297,Europe,False
+Latvia,LVA,2020,40.287926,Europe,False
+Latvia,LVA,2021,139.0268,Europe,False
+Lithuania,LTU,2013,60.365707,Europe,False
+Lithuania,LTU,2014,66.1329,Europe,False
+Lithuania,LTU,2015,73.45963,Europe,False
+Lithuania,LTU,2016,76.96039,Europe,False
+Lithuania,LTU,2017,79.52271,Europe,False
+Lithuania,LTU,2018,95.32043,Europe,False
+Lithuania,LTU,2019,99.73766,Europe,False
+Lithuania,LTU,2020,36.529556,Europe,False
+Lithuania,LTU,2021,60.470802,Europe,False
+Lithuania,LTU,2022,99.91859,Europe,False
+Lithuania,LTU,2023,106.84029,Europe,False
+Lithuania,LTU,2024,123.211555,Europe,False
+Luxembourg,LUX,2013,396.55673,Europe,False
+Luxembourg,LUX,2014,427.69717,Europe,False
+Luxembourg,LUX,2015,402.08057,Europe,False
+Luxembourg,LUX,2016,417.6218,Europe,False
+Luxembourg,LUX,2017,677.75806,Europe,False
+Luxembourg,LUX,2018,810.01105,Europe,False
+Luxembourg,LUX,2019,1374.359,Europe,False
+Luxembourg,LUX,2020,1231.2142,Europe,False
+Luxembourg,LUX,2021,1560.0778,Europe,False
+Luxembourg,LUX,2022,1706.7555,Europe,False
+Malawi,MWI,2019,0.20361058,Africa,False
+Malta,MLT,2013,150.4134,Europe,False
+Malta,MLT,2014,158.88815,Europe,False
+Malta,MLT,2015,170.45221,Europe,False
+Malta,MLT,2016,196.50745,Europe,False
+Malta,MLT,2017,210.003,Europe,False
+Malta,MLT,2018,232.89726,Europe,False
+Malta,MLT,2019,244.74135,Europe,False
+Malta,MLT,2020,104.13118,Europe,False
+Malta,MLT,2021,146.41595,Europe,False
+Malta,MLT,2022,190.68082,Europe,False
+Malta,MLT,2023,244.80315,Europe,False
+Malta,MLT,2024,231.1027,Europe,False
+Mauritius,MUS,2013,126.73091,Africa,False
+Mauritius,MUS,2014,124.679825,Africa,False
+Mauritius,MUS,2015,132.21875,Africa,False
+Mauritius,MUS,2016,142.01805,Africa,False
+Mauritius,MUS,2017,157.53928,Africa,False
+Mauritius,MUS,2018,159.69511,Africa,False
+Mauritius,MUS,2019,160.51904,Africa,False
+Mauritius,MUS,2020,48.143883,Africa,False
+Mauritius,MUS,2021,36.40303,Africa,False
+Mauritius,MUS,2022,120.266426,Africa,False
+Mexico,MEX,2013,23.958044,North America,False
+Mexico,MEX,2014,24.552412,North America,False
+Mexico,MEX,2015,26.308031,North America,False
+Mexico,MEX,2016,26.475292,North America,False
+Mexico,MEX,2017,24.447083,North America,False
+Mexico,MEX,2018,25.296413,North America,False
+Mexico,MEX,2019,24.15807,North America,False
+Mexico,MEX,2020,8.169771,North America,False
+Mexico,MEX,2021,14.564925,North America,False
+Mexico,MEX,2022,18.32047,North America,False
+Mexico,MEX,2023,20.479065,North America,False
+Mexico,MEX,2024,23.114857,North America,False
+Moldova,MDA,2013,38.860058,Europe,False
+Moldova,MDA,2014,58.61671,Europe,False
+Moldova,MDA,2015,77.87259,Europe,False
+Moldova,MDA,2016,58.00735,Europe,False
+Moldova,MDA,2017,79.38666,Europe,False
+Moldova,MDA,2018,83.77643,Europe,False
+Moldova,MDA,2019,85.61501,Europe,False
+Moldova,MDA,2020,54.573997,Europe,False
+Moldova,MDA,2021,118.28773,Europe,False
+Moldova,MDA,2022,85.46477,Europe,False
+Moldova,MDA,2023,89.266624,Europe,False
+Moldova,MDA,2024,97.80428,Europe,False
+Morocco,MAR,2013,10.216636,Africa,False
+Morocco,MAR,2014,8.913663,Africa,False
+Morocco,MAR,2015,9.49462,Africa,False
+Morocco,MAR,2016,9.236862,Africa,False
+Morocco,MAR,2017,9.128243,Africa,False
+Morocco,MAR,2018,9.447365,Africa,False
+Morocco,MAR,2019,9.695447,Africa,False
+Morocco,MAR,2020,4.233917,Africa,False
+Morocco,MAR,2021,5.495804,Africa,False
+Morocco,MAR,2022,8.547532,Africa,False
+Nepal,NPL,2013,16.013342,Asia,False
+Nepal,NPL,2017,22.639652,Asia,False
+Netherlands,NLD,2013,613.07275,Europe,False
+Netherlands,NLD,2014,569.2629,Europe,False
+Netherlands,NLD,2015,540.3817,Europe,False
+Netherlands,NLD,2016,562.6629,Europe,False
+Netherlands,NLD,2017,597.4684,Europe,False
+Netherlands,NLD,2018,601.8219,Europe,False
+Netherlands,NLD,2019,599.585,Europe,False
+Netherlands,NLD,2020,296.16287,Europe,False
+Netherlands,NLD,2021,568.0498,Europe,False
+Netherlands,NLD,2022,580.14746,Europe,False
+New Zealand,NZL,2013,439.76,Oceania,False
+New Zealand,NZL,2014,441.58786,Oceania,False
+New Zealand,NZL,2015,443.97827,Oceania,False
+New Zealand,NZL,2016,505.16397,Oceania,False
+New Zealand,NZL,2017,592.0377,Oceania,False
+New Zealand,NZL,2018,624.4557,Oceania,False
+New Zealand,NZL,2019,618.76337,Oceania,False
+New Zealand,NZL,2020,157.09512,Oceania,False
+New Zealand,NZL,2021,201.91582,Oceania,False
+New Zealand,NZL,2022,329.97208,Oceania,False
+Nicaragua,NIC,2013,10.575048,North America,False
+Nicaragua,NIC,2014,9.4413395,North America,False
+Nicaragua,NIC,2015,10.660687,North America,False
+Nicaragua,NIC,2016,10.552274,North America,False
+Nicaragua,NIC,2017,8.6823225,North America,False
+Nicaragua,NIC,2018,9.044491,North America,False
+Nicaragua,NIC,2019,7.4666424,North America,False
+Nicaragua,NIC,2020,3.4234986,North America,False
+Nicaragua,NIC,2021,8.742052,North America,False
+Nicaragua,NIC,2022,9.404316,North America,False
+North America,OWID_NAM,2013,112.841866,,True
+North America,OWID_NAM,2014,120.61936,,True
+North America,OWID_NAM,2015,126.82091,,True
+North America,OWID_NAM,2016,133.51451,,True
+North America,OWID_NAM,2017,140.06651,,True
+North America,OWID_NAM,2018,146.06866,,True
+North America,OWID_NAM,2019,155.24364,,True
+North America,OWID_NAM,2020,69.69245,,True
+North America,OWID_NAM,2021,25.218414,,True
+North America,OWID_NAM,2022,41.59533,,True
+North America,OWID_NAM,2023,51.37331,,True
+North America,OWID_NAM,2024,58.14699,,True
+North Macedonia,MKD,2020,17.632843,Europe,False
+North Macedonia,MKD,2021,39.37721,Europe,False
+Norway,NOR,2013,591.50397,Europe,False
+Norway,NOR,2014,585.9372,Europe,False
+Norway,NOR,2015,512.39185,Europe,False
+Norway,NOR,2016,422.9227,Europe,False
+Norway,NOR,2017,410.26508,Europe,False
+Norway,NOR,2018,466.662,Europe,False
+Norway,NOR,2019,516.2595,Europe,False
+Norway,NOR,2020,141.43011,Europe,False
+Norway,NOR,2021,145.17363,Europe,False
+Norway,NOR,2022,384.09302,Europe,False
+Oceania,OWID_OCE,2013,151.55956,,True
+Oceania,OWID_OCE,2014,154.96443,,True
+Oceania,OWID_OCE,2015,154.01689,,True
+Oceania,OWID_OCE,2016,208.36302,,True
+Oceania,OWID_OCE,2017,233.18007,,True
+Oceania,OWID_OCE,2018,252.4392,,True
+Oceania,OWID_OCE,2019,338.16492,,True
+Oceania,OWID_OCE,2020,98.73844,,True
+Oceania,OWID_OCE,2021,62.543438,,True
+Oceania,OWID_OCE,2022,158.71477,,True
+Oceania,OWID_OCE,2023,93.000694,,True
+Oceania,OWID_OCE,2024,93.036194,,True
+Oman,OMN,2013,521.31824,Asia,False
+Oman,OMN,2014,482.40366,Asia,False
+Oman,OMN,2015,561.94696,Asia,False
+Oman,OMN,2016,547.25824,Asia,False
+Oman,OMN,2017,682.3012,Asia,False
+Oman,OMN,2018,541.59326,Asia,False
+Oman,OMN,2019,632.3768,Asia,False
+Oman,OMN,2020,179.60657,Asia,False
+Oman,OMN,2021,270.19647,Asia,False
+Oman,OMN,2022,297.9232,Asia,False
+Oman,OMN,2023,447.74487,Asia,False
+Oman,OMN,2024,479.68497,Asia,False
+Panama,PAN,2013,135.74388,North America,False
+Panama,PAN,2014,200.4372,North America,False
+Panama,PAN,2015,198.66,North America,False
+Panama,PAN,2016,245.81905,North America,False
+Panama,PAN,2017,218.44943,North America,False
+Panama,PAN,2018,271.38583,North America,False
+Panama,PAN,2019,335.54785,North America,False
+Panama,PAN,2020,150.16551,North America,False
+Panama,PAN,2021,236.12415,North America,False
+Panama,PAN,2022,224.39127,North America,False
+Paraguay,PRY,2013,11.246885,South America,False
+Paraguay,PRY,2014,11.561261,South America,False
+Paraguay,PRY,2015,12.619082,South America,False
+Paraguay,PRY,2016,21.842913,South America,False
+Paraguay,PRY,2017,21.388737,South America,False
+Paraguay,PRY,2018,32.063232,South America,False
+Paraguay,PRY,2019,25.545399,South America,False
+Paraguay,PRY,2020,9.921391,South America,False
+Paraguay,PRY,2021,47.130474,South America,False
+Paraguay,PRY,2022,33.146637,South America,False
+Peru,PER,2013,41.05557,South America,False
+Peru,PER,2014,42.061646,South America,False
+Peru,PER,2015,42.773567,South America,False
+Peru,PER,2016,44.934296,South America,False
+Peru,PER,2017,46.122818,South America,False
+Peru,PER,2018,45.84061,South America,False
+Peru,PER,2019,45.862663,South America,False
+Peru,PER,2020,18.146421,South America,False
+Peru,PER,2021,34.901474,South America,False
+Peru,PER,2022,39.438507,South America,False
+Philippines,PHL,2014,24.076706,Asia,False
+Philippines,PHL,2015,32.169197,Asia,False
+Philippines,PHL,2016,36.432384,Asia,False
+Poland,POL,2013,22.160719,Europe,False
+Poland,POL,2014,23.000559,Europe,False
+Poland,POL,2015,25.59185,Europe,False
+Poland,POL,2016,29.931374,Europe,False
+Poland,POL,2017,36.429043,Europe,False
+Poland,POL,2018,43.087173,Europe,False
+Poland,POL,2019,48.460274,Europe,False
+Poland,POL,2020,22.75343,Europe,False
+Poland,POL,2021,28.605145,Europe,False
+Poland,POL,2022,49.079987,Europe,False
+Poland,POL,2023,56.118393,Europe,False
+Poland,POL,2024,66.23991,Europe,False
+Portugal,PRT,2013,42.84253,Europe,False
+Portugal,PRT,2014,40.677288,Europe,False
+Portugal,PRT,2015,48.64195,Europe,False
+Portugal,PRT,2016,48.09613,Europe,False
+Portugal,PRT,2017,53.204445,Europe,False
+Portugal,PRT,2018,63.63335,Europe,False
+Portugal,PRT,2019,80.29722,Europe,False
+Portugal,PRT,2020,18.047283,Europe,False
+Portugal,PRT,2021,22.848505,Europe,False
+Portugal,PRT,2022,48.92129,Europe,False
+Portugal,PRT,2023,57.064693,Europe,False
+Portugal,PRT,2024,58.811195,Europe,False
+Romania,ROU,2020,2.7277186,Europe,False
+Romania,ROU,2021,6.0194955,Europe,False
+Romania,ROU,2022,7.821988,Europe,False
+Romania,ROU,2023,8.813386,Europe,False
+Romania,ROU,2024,12.501637,Europe,False
+Samoa,WSM,2013,85.56304,Oceania,False
+Samoa,WSM,2014,89.65052,Oceania,False
+Samoa,WSM,2015,80.43567,Oceania,False
+Samoa,WSM,2017,80.31767,Oceania,False
+Samoa,WSM,2018,102.85882,Oceania,False
+Samoa,WSM,2019,99.29042,Oceania,False
+Samoa,WSM,2020,42.591057,Oceania,False
+Samoa,WSM,2021,37.1824,Oceania,False
+Samoa,WSM,2022,36.359196,Oceania,False
+Saudi Arabia,SAU,2013,200.45364,Asia,False
+Saudi Arabia,SAU,2014,204.04712,Asia,False
+Saudi Arabia,SAU,2015,230.30898,Asia,False
+Saudi Arabia,SAU,2016,253.6567,Asia,False
+Saudi Arabia,SAU,2017,292.21585,Asia,False
+Saudi Arabia,SAU,2018,288.72815,Asia,False
+Saudi Arabia,SAU,2019,236.10367,Asia,False
+Saudi Arabia,SAU,2020,77.7235,Asia,False
+Saudi Arabia,SAU,2021,156.15602,Asia,False
+Saudi Arabia,SAU,2022,165.99742,Asia,False
+Saudi Arabia,SAU,2023,158.67361,Asia,False
+Saudi Arabia,SAU,2024,184.88261,Asia,False
+Seychelles,SYC,2013,301.27505,Africa,False
+Seychelles,SYC,2014,297.31293,Africa,False
+Seychelles,SYC,2015,319.46857,Africa,False
+Seychelles,SYC,2016,418.5382,Africa,False
+Seychelles,SYC,2017,466.24216,Africa,False
+Seychelles,SYC,2018,445.08524,Africa,False
+Seychelles,SYC,2019,458.37082,Africa,False
+Seychelles,SYC,2020,137.77562,Africa,False
+Seychelles,SYC,2021,161.3079,Africa,False
+Seychelles,SYC,2022,244.95312,Africa,False
+Sierra Leone,SLE,2013,11.281943,Africa,False
+Sierra Leone,SLE,2014,15.08493,Africa,False
+Sierra Leone,SLE,2015,6.9545836,Africa,False
+Sierra Leone,SLE,2016,6.162055,Africa,False
+Sierra Leone,SLE,2017,8.296164,Africa,False
+Sierra Leone,SLE,2018,8.123877,Africa,False
+Singapore,SGP,2013,1507.5741,Asia,False
+Singapore,SGP,2014,1476.8638,Asia,False
+Singapore,SGP,2015,1495.9243,Asia,False
+Singapore,SGP,2016,1511.3849,Asia,False
+Singapore,SGP,2017,1515.7684,Asia,False
+Singapore,SGP,2018,1585.101,Asia,False
+Singapore,SGP,2019,1593.2288,Asia,False
+Singapore,SGP,2020,545.8118,Asia,False
+Singapore,SGP,2021,1583.6943,Asia,False
+Singapore,SGP,2022,1198.3673,Asia,False
+Slovenia,SVN,2013,34.553944,Europe,False
+Slovenia,SVN,2014,33.85563,Europe,False
+Slovenia,SVN,2015,36.173264,Europe,False
+Slovenia,SVN,2016,32.617878,Europe,False
+Slovenia,SVN,2017,33.858036,Europe,False
+Slovenia,SVN,2018,35.155464,Europe,False
+Slovenia,SVN,2019,30.879835,Europe,False
+Slovenia,SVN,2020,12.926435,Europe,False
+Slovenia,SVN,2021,24.472984,Europe,False
+Slovenia,SVN,2022,27.797958,Europe,False
+Slovenia,SVN,2023,36.62739,Europe,False
+Slovenia,SVN,2024,40.174717,Europe,False
+South America,OWID_SAM,2013,47.66308,,True
+South America,OWID_SAM,2014,47.167263,,True
+South America,OWID_SAM,2015,47.52588,,True
+South America,OWID_SAM,2016,46.90733,,True
+South America,OWID_SAM,2017,48.02162,,True
+South America,OWID_SAM,2018,51.187977,,True
+South America,OWID_SAM,2019,34.42637,,True
+South America,OWID_SAM,2020,14.361327,,True
+South America,OWID_SAM,2021,28.611822,,True
+South America,OWID_SAM,2022,30.181185,,True
+South America,OWID_SAM,2023,22.637487,,True
+South America,OWID_SAM,2024,25.206234,,True
+Spain,ESP,2013,48.108192,Europe,False
+Spain,ESP,2014,49.11734,Europe,False
+Spain,ESP,2015,60.80263,Europe,False
+Spain,ESP,2016,65.681946,Europe,False
+Spain,ESP,2017,71.68839,Europe,False
+Spain,ESP,2018,82.772385,Europe,False
+Spain,ESP,2019,89.10448,Europe,False
+Spain,ESP,2020,31.799358,Europe,False
+Spain,ESP,2021,37.2758,Europe,False
+Spain,ESP,2022,67.006485,Europe,False
+Spain,ESP,2023,76.0616,Europe,False
+Spain,ESP,2024,88.09634,Europe,False
+Sri Lanka,LKA,2013,53.597794,Asia,False
+Sri Lanka,LKA,2014,50.048298,Asia,False
+Sri Lanka,LKA,2015,47.346283,Asia,False
+Sri Lanka,LKA,2016,46.39844,Asia,False
+Sri Lanka,LKA,2017,45.242874,Asia,False
+Sri Lanka,LKA,2018,45.73307,Asia,False
+Sri Lanka,LKA,2019,47.208233,Asia,False
+Sri Lanka,LKA,2020,13.340608,Asia,False
+Sri Lanka,LKA,2021,37.219933,Asia,False
+Sri Lanka,LKA,2022,58.03837,Asia,False
+Sweden,SWE,2013,260.43198,Europe,False
+Sweden,SWE,2017,708.6331,Europe,False
+Sweden,SWE,2018,638.4976,Europe,False
+Sweden,SWE,2019,586.0835,Europe,False
+Sweden,SWE,2020,172.87822,Europe,False
+Sweden,SWE,2021,168.76384,Europe,False
+Sweden,SWE,2022,392.61792,Europe,False
+Switzerland,CHE,2013,818.5581,Europe,False
+Switzerland,CHE,2014,818.69507,Europe,False
+Switzerland,CHE,2015,903.4566,Europe,False
+Switzerland,CHE,2016,864.45374,Europe,False
+Switzerland,CHE,2017,906.19727,Europe,False
+Switzerland,CHE,2018,888.2098,Europe,False
+Switzerland,CHE,2019,740.42316,Europe,False
+Switzerland,CHE,2020,414.3028,Europe,False
+Switzerland,CHE,2021,402.32175,Europe,False
+Switzerland,CHE,2022,582.12964,Europe,False
+Taiwan,TWN,2020,0.5148236,Asia,False
+Taiwan,TWN,2021,0.5379893,Asia,False
+Taiwan,TWN,2023,0.5836274,Asia,False
+Taiwan,TWN,2024,0.6013634,Asia,False
+Tanzania,TZA,2021,0.53559667,Africa,False
+Thailand,THA,2013,31.607136,Asia,False
+Thailand,THA,2014,36.539646,Asia,False
+Thailand,THA,2015,34.86446,Asia,False
+Thailand,THA,2016,41.206196,Asia,False
+Thailand,THA,2017,42.686886,Asia,False
+Thailand,THA,2018,47.789276,Asia,False
+Thailand,THA,2019,47.286346,Asia,False
+Thailand,THA,2020,14.273757,Asia,False
+Thailand,THA,2021,2.135793,Asia,False
+Togo,TGO,2016,8.538692,Africa,False
+Togo,TGO,2017,7.178578,Africa,False
+Togo,TGO,2018,6.1640196,Africa,False
+Togo,TGO,2019,4.5283594,Africa,False
+Trinidad and Tobago,TTO,2020,36.679787,North America,False
+Trinidad and Tobago,TTO,2021,48.34535,North America,False
+Trinidad and Tobago,TTO,2022,110.0179,North America,False
+Trinidad and Tobago,TTO,2023,146.44937,North America,False
+Trinidad and Tobago,TTO,2024,183.78844,North America,False
+Tunisia,TUN,2013,25.213068,Africa,False
+Tunisia,TUN,2014,21.285086,Africa,False
+Tunisia,TUN,2016,13.839631,Africa,False
+Tunisia,TUN,2018,19.125702,Africa,False
+Tunisia,TUN,2019,19.330336,Africa,False
+Tunisia,TUN,2020,7.7776604,Africa,False
+Tunisia,TUN,2021,20.259247,Africa,False
+Tunisia,TUN,2022,25.753178,Africa,False
+Turkey,TUR,2013,17.402512,Asia,False
+Turkey,TUR,2014,19.946375,Asia,False
+Turkey,TUR,2015,24.800863,Asia,False
+Turkey,TUR,2016,29.146027,Asia,False
+Turkey,TUR,2017,26.003105,Asia,False
+Turkey,TUR,2018,21.967281,Asia,False
+Turkey,TUR,2019,26.762688,Asia,False
+Turkey,TUR,2020,7.61834,Asia,False
+Turkey,TUR,2021,8.006944,Asia,False
+Turkey,TUR,2022,19.527582,Asia,False
+Tuvalu,TUV,2018,116.73011,Oceania,False
+Uganda,UGA,2013,2.6214912,Africa,False
+Uganda,UGA,2014,2.6825686,Africa,False
+Uganda,UGA,2015,2.4699547,Africa,False
+Uganda,UGA,2016,2.2766795,Africa,False
+Uganda,UGA,2017,2.1539154,Africa,False
+Uganda,UGA,2019,1.961799,Africa,False
+Uganda,UGA,2020,0.8690671,Africa,False
+Uganda,UGA,2021,2.4985533,Africa,False
+Ukraine,UKR,2013,18.121132,Europe,False
+Ukraine,UKR,2014,32.38947,Europe,False
+Ukraine,UKR,2015,36.952557,Europe,False
+Ukraine,UKR,2016,42.1046,Europe,False
+Ukraine,UKR,2017,50.799442,Europe,False
+Ukraine,UKR,2018,62.205334,Europe,False
+Ukraine,UKR,2019,61.414555,Europe,False
+Ukraine,UKR,2020,42.19743,Europe,False
+Ukraine,UKR,2021,78.219376,Europe,False
+United Arab Emirates,ARE,2015,3060.6494,Asia,False
+United Arab Emirates,ARE,2016,3081.2617,Asia,False
+United Arab Emirates,ARE,2017,2926.4216,Asia,False
+United Arab Emirates,ARE,2018,2725.9294,Asia,False
+United Arab Emirates,ARE,2019,2357.986,Asia,False
+United Arab Emirates,ARE,2020,971.7824,Asia,False
+United Arab Emirates,ARE,2021,761.32086,Asia,False
+United Kingdom,GBR,2020,428.27637,Europe,False
+United Kingdom,GBR,2021,499.89978,Europe,False
+United Kingdom,GBR,2022,816.94824,Europe,False
+United Kingdom,GBR,2023,994.7127,Europe,False
+United Kingdom,GBR,2024,1087.8485,Europe,False
+United States,USA,2013,145.18181,North America,False
+United States,USA,2014,162.30696,North America,False
+United States,USA,2015,181.47118,North America,False
+United States,USA,2016,208.61499,North America,False
+United States,USA,2017,231.40573,North America,False
+United States,USA,2018,242.04039,North America,False
+United States,USA,2019,265.94406,North America,False
+United States,USA,2020,160.99872,North America,False
+Uruguay,URY,2013,52.242374,South America,False
+Uruguay,URY,2014,61.185055,South America,False
+Uruguay,URY,2015,65.73051,South America,False
+Uruguay,URY,2016,48.48049,South America,False
+Uruguay,URY,2017,43.618324,South America,False
+Uruguay,URY,2018,52.812584,South America,False
+Uruguay,URY,2019,58.995182,South America,False
+Vanuatu,VUT,2013,26.363173,Oceania,False
+Vanuatu,VUT,2014,24.59403,Oceania,False
+Vanuatu,VUT,2015,27.613058,Oceania,False
+Vanuatu,VUT,2016,17.351229,Oceania,False
+Vanuatu,VUT,2017,20.923616,Oceania,False
+Vanuatu,VUT,2018,24.16613,Oceania,False
+Vanuatu,VUT,2019,26.307264,Oceania,False
+Vanuatu,VUT,2020,8.36363,Oceania,False
+Vanuatu,VUT,2022,21.98559,Oceania,False
+Venezuela,VEN,2013,59.84281,South America,False
+Venezuela,VEN,2014,40.20643,South America,False
+Venezuela,VEN,2015,34.815025,South America,False
+Venezuela,VEN,2016,45.557384,South America,False
+Venezuela,VEN,2017,34.07407,South America,False

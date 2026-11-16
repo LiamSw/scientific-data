@@ -5,9 +5,9 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from matplotlib.lines import Line2D
 
-# Les CSV doivent être placés dans le dossier « data », à côté de ce script.
+# Les CSV sont stockés dans datas/datas/evolution_aviation/.
 BASE = Path(__file__).resolve().parent
-DATA = BASE / 'data'
+DATA = Path(__file__).resolve().parents[2] / 'datas' / 'datas' / 'evolution_aviation'
 FIG = BASE / 'figures'
 FIG.mkdir(exist_ok=True)
 
@@ -39,8 +39,8 @@ def save_figure(fig, name):
 
 # Chargement des données utiles aux quatre graphiques.
 segments = pd.read_csv(DATA / 'eurocontrol_segments_2024_2025.csv')
-operators = pd.read_csv(DATA / 'eurocontrol_operators_2019_2025.csv')
 routes = pd.read_csv(DATA / 'airport_routes_1993_2019_observed.csv')
+comparison = pd.read_csv(DATA / 'eurocontrol_lowcost_vs_mainline_2019_2025.csv')
 
 
 # Figure 1 : évolution de la part des low-cost (1998–2025).
@@ -145,23 +145,58 @@ ax.grid(False)
 save_figure(fig,'03_market_segments_2025')
 
 
-# Figure 5 : évolution du nombre de vols par compagnie (2019–2025).
-selection=['Ryanair Group','easyJet Group','Wizz Air Group','Turkish Airlines Group',
-           'Lufthansa Airlines','Air France Group','Vueling','Norwegian Group']
-p=operators[operators.airline.isin(selection)].sort_values('daily_2025',ascending=True)
-fig,ax=plt.subplots(figsize=(11.6,7))
-for r in p.itertuples():
-    c=COLORS['Low-cost'] if r.category_for_chart=='Low-cost' else COLORS['Mainline']
-    ax.plot([2019,2025],[r.daily_2019_derived,r.daily_2025],color=c,lw=2.6,alpha=.82)
-    ax.scatter([2019,2025],[r.daily_2019_derived,r.daily_2025],color=c,s=50)
-    label_y = r.daily_2025 + {'easyJet Group':95,'Turkish Airlines Group':-95, 'Lufthansa Airlines':40, 'Air France Group':-40}.get(r.airline,0)
-    ax.text(2025.15,label_y,f'{r.airline}  ({r.delta_2025_vs_2019:+,}/day)',color=c,va='center',fontsize=10)
-ax.set(xlim=(2018.2,2031),ylim=(0,3550),xticks=[2019,2025],ylabel='Average daily flights',title='Airline operators: change in flight activity (2019 → 2025)')
-ax.grid(axis='x',visible=False)
-ax.legend(handles=[Line2D([0],[0],color=COLORS['Low-cost'],lw=3,label='Low-cost'),
-                   Line2D([0],[0],color=COLORS['Mainline'],lw=3,label='Mainline')],loc='upper left',fontsize=10)
-fig.text(.01,-.03,'Source: EUROCONTROL PRR 2025, Fig. 2-12. 2019 derived as 2025 minus reported absolute change. Colors classify selected operators.',fontsize=9)
-save_figure(fig,'05_airline_growth_slope_2019_2025')
+# Figure 5 : low-cost vs mainline, with the classification change marked.
+comparison_chart = (
+    comparison.loc[comparison['year'] >= 2022]
+    .sort_values('year')
+)
+
+fig, ax = plt.subplots(figsize=(12, 5.5))
+series = [
+    ('low_cost_daily_flights', 'Low-cost', COLORS['Low-cost']),
+    ('mainline_daily_flights', 'Mainline', COLORS['Mainline'])
+]
+
+for column, label, color in series:
+    ax.scatter(
+        comparison_chart['year'],
+        comparison_chart[column],
+        color=color,
+        s=75,
+        zorder=5
+    )
+
+    subset = comparison_chart[comparison_chart['year'].between(2022, 2024)]
+    ax.plot(subset['year'], subset[column], color=color, linewidth=2.8)
+
+    subset = comparison_chart[comparison_chart['year'].isin([2024, 2025])]
+    ax.plot(
+        subset['year'],
+        subset[column],
+        color=color,
+        linewidth=2,
+        linestyle=':',
+        alpha=0.8
+    )
+
+ax.set_title(
+    'Low-cost vs Mainline Air Traffic in Europe (2022–2025)',
+    fontsize=17,
+    pad=15
+)
+ax.set_xlabel('Year')
+ax.set_ylabel('Average daily IFR flights', fontsize=14)
+ax.set_xticks(range(2022, 2026))
+ax.set_xlim(2021.6, 2025.4)
+ax.set_ylim(7500, 12000)
+legend_elements = [
+    Line2D([0], [0], color=COLORS['Low-cost'], lw=3, marker='o', label='Low-cost'),
+    Line2D([0], [0], color=COLORS['Mainline'], lw=3, marker='o', label='Mainline'),
+    Line2D([0], [0], color='gray', lw=2, linestyle=':', label='Classification change')
+]
+ax.legend(handles=legend_elements, loc='upper left', fontsize=9)
+ax.grid(axis='y', alpha=0.3)
+save_figure(fig, 'lowcost_vs_mainline_line')
 
 # Figure 9 : évolution des liaisons origine–destination déclarées (1993–2019).
 fig,ax=plt.subplots(figsize=(11.7,5.3))

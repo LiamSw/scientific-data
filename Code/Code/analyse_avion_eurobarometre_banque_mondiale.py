@@ -7,7 +7,13 @@ import pandas as pd
 
 # Resolve data and output paths from this script's folder.
 PROJECT_ROOT = Path(__file__).resolve().parent
-PROCESSED = PROJECT_ROOT / "data_avion_structure_et_sources" / "data" / "processed"
+PROCESSED = (
+    Path(__file__).resolve().parents[2]
+    / "datas"
+    / "datas"
+    / "inequalities_in_aviation"
+    / "processed"
+)
 FIGURES = PROJECT_ROOT / "figures"
 FIGURES.mkdir(parents=True, exist_ok=True)
 

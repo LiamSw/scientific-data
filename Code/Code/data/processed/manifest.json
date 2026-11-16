@@ -1,0 +1,108 @@
+{
+  "project": "Aviation and climate injustice",
+  "cleaning_pipeline": "cleaning code/clean_data.py",
+  "files": {
+    "article_regions_clean.csv": {
+      "rows": 8,
+      "columns": [
+        "region",
+        "year",
+        "rpk_global_share_pct",
+        "rpk_per_capita",
+        "co2_commercial_passenger_mt",
+        "co2_commercial_passenger_kg_per_capita",
+        "source_table_rpk",
+        "source_table_co2",
+        "data_status",
+        "source_doi"
+      ],
+      "source": "https://doi.org/10.1016/j.gloenvcha.2020.102194",
+      "reference": "Tables 3 et 4",
+      "year": 2018,
+      "warning": "Estimations régionales. Rest of world : kg/habitant absent, non imputé."
+    },
+    "article_income_clean.csv": {
+      "rows": 4,
+      "columns": [
+        "income_country_group",
+        "year",
+        "population_million",
+        "airline_passenger_movements_million",
+        "passenger_movements_per_capita",
+        "estimated_population_who_flew_pct",
+        "estimated_unique_flyers_million",
+        "method_caveat",
+        "source_table",
+        "source_doi"
+      ],
+      "source": "https://doi.org/10.1016/j.gloenvcha.2020.102194",
+      "reference": "Table 2",
+      "year": 2018,
+      "warning": "Le % de voyageurs est modélisé, PAS directement mesuré; mouvements != voyageurs uniques."
+    },
+    "article_concentration_clean.csv": {
+      "rows": 2,
+      "columns": [
+        "population_group",
+        "year",
+        "share_world_population_pct",
+        "estimated_share_commercial_passenger_aviation_co2_pct",
+        "estimate_status",
+        "source_section",
+        "source_doi"
+      ],
+      "source": "https://doi.org/10.1016/j.gloenvcha.2020.102194",
+      "reference": "Section 4.4",
+      "year": 2018,
+      "warning": "~1 % / ~50 % : estimation des auteurs ; 99 % / 50 % : complément arithmétique."
+    },
+    "ipcc_spm2_clean.csv": {
+      "rows": 279,
+      "columns": [
+        "figure",
+        "region",
+        "indicator",
+        "impact",
+        "confidence_in_attribution",
+        "ipcc_report_reference",
+        "confidence_class",
+        "impact_class"
+      ],
+      "source": "https://www.ipcc.ch/report/ar6/wg2/figures/summary-for-policymakers/figure-spm-2/",
+      "reference": "IPCC AR6 WGII SPM.2 a,b (2022)",
+      "warning": "La confiance dans l'attribution n'est PAS la sévérité des impacts. Valeurs vides préservées."
+    },
+    "owid_international_aviation_clean.csv": {
+      "rows": 896,
+      "columns": [
+        "entity",
+        "iso3_or_owid",
+        "year",
+        "co2_international_kg_per_capita_adjusted",
+        "world_region",
+        "is_aggregate"
+      ],
+      "source": "https://ourworldindata.org/grapher/per-capita-co2-international-flights-adjusted",
+      "years": [
+        2013,
+        2024
+      ],
+      "unit": "kg CO2 par habitant",
+      "warning": "Émissions des vols internationaux ajustées au tourisme; années incomplètes, différentes du périmètre des données de l'article."
+    },
+    "owid_europe_2024_available_clean.csv": {
+      "rows": 16,
+      "columns": [
+        "entity",
+        "iso3_or_owid",
+        "year",
+        "co2_international_kg_per_capita_adjusted",
+        "world_region",
+        "is_aggregate"
+      ],
+      "source": "https://ourworldindata.org/grapher/per-capita-co2-international-flights-adjusted",
+      "year": 2024,
+      "warning": "Sous-ensemble disponible : 16 pays, classement NON exhaustif de l'Europe."
+    }
+  }
+}
