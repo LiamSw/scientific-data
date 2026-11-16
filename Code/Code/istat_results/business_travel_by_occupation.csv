@@ -1,0 +1,8 @@
+﻿code,Group,n_sample,n_air_sample,trips_est,air_trips_est,air_share,Sample_size_warning
+2,Knowledge and scientific professions,134,40,1947115.820455,630818.3341101999,32.397576327164295,20 or more observations
+4,Qualified commerce and service professions,24,6,439523.09167249996,179570.39228,40.85573561031522,20 or more observations
+1,Entrepreneurs and senior management,13,8,175256.96697820004,141069.1160153,80.49272930350746,Small sample (<20)
+3,Office executive professions,7,3,126526.6952583,76975.10166310001,60.83704431381688,Small sample (<20)
+5,Qualified manual professions,20,3,374132.82513879996,52763.3419669,14.102836859429607,20 or more observations
+6,Unqualified manual professions,7,2,89158.66416719998,17335.087354,19.44296442294309,Small sample (<20)
+7,Armed forces,3,0,65378.981264999995,0.0,0.0,Small sample (<20)

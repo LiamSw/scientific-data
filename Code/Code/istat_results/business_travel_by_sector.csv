@@ -1,0 +1,4 @@
+﻿code,Group,n_sample,n_air_sample,trips_est,air_trips_est,air_share,Sample_size_warning
+03,Tertiary sector,155,44,2408729.6556398002,756737.9550916,31.416475207990796,20 or more observations
+02,Secondary sector,50,17,789077.7019226002,337926.46214490006,42.82549884777341,20 or more observations
+01,Primary sector,3,1,19285.6873726,3866.956153,20.05091173723966,Small sample (<20)

@@ -1,0 +1,14 @@
+﻿code,Group,n_sample,n_air_sample,trips_est,air_trips_est,air_share,Sample_size_warning
+01,"Congresses, conferences and seminars",48,17,685647.7361075999,362308.8093661,52.84182974524432,20 or more observations
+02,Business meetings,38,12,675090.2994368001,244992.7379111,36.29036561708668,20 or more observations
+07,"Cultural, artistic or sporting activities",14,5,390384.36307920003,185218.1061702,47.4450627861402,Small sample (<20)
+03,Trade fairs and exhibitions,27,9,481669.92361770006,118015.69487030001,24.50136267257756,20 or more observations
+10,Vocational training,17,5,231982.0938661,78673.0018614,33.91339415481353,Small sample (<20)
+04,Professional or military assignments,5,2,132929.072797,73489.383467,55.284658141885835,Small sample (<20)
+06,"Representation, sales and technical services",27,6,304410.9976055,63130.46249019999,20.738561677069768,20 or more observations
+11,Transport industry personnel,7,2,118328.767588,44336.06356,37.46854164354217,Small sample (<20)
+12,Construction and craft activities,9,3,152589.1391352,40581.476277,26.595258684199802,Small sample (<20)
+14,Temporary or seasonal employment,6,2,78509.16476549998,18252.8660013,23.24934427186904,Small sample (<20)
+05,Company trips and incentive travel,5,1,94499.78963099999,17193.466449,18.194184893042138,Small sample (<20)
+08,"Teaching, consulting and training",7,2,33804.4214113,9833.4374162,29.08920491954618,Small sample (<20)
+13,Inspection and control,8,0,129664.31175139999,0.0,0.0,Small sample (<20)
